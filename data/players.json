@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "summonerName": "ShadowFox",
+    "tag": "LAN",
+    "region": "Latinoamérica Norte",
+    "titleId": "eternal_summoner",
+    "level": 247,
+    "currentXp": 1840,
+    "requiredXp": 2500,
+    "banner": "banner_01.jpg",
+    "icon": "icon_01.png",
+    "borderIcon": "border_gold.png",
+    "honorLevel": 4,
+    "masteryScore": 843250,
+    "medals": [
+      {
+        "name": "Veterano",
+        "icon": "medal_veteran.png"
+      },
+      {
+        "name": "Estratega",
+        "icon": "medal_strategy.png"
+      },
+      {
+        "name": "Coleccionista",
+        "icon": "medal_collector.png"
+      }
+    ],
+    "ranked": {
+      "soloDuo": {
+        "tier": "gold",
+        "division": "II",
+        "lp": 64,
+        "wins": 78,
+        "losses": 59
+      },
+      "flex": {
+        "tier": "platinum",
+        "division": "IV",
+        "lp": 21,
+        "wins": 44,
+        "losses": 39
+      }
+    },
+    "championMastery": [
+      {
+        "championId": 1,
+        "points": 286420,
+        "level": 7
+      },
+      {
+        "championId": 102,
+        "points": 178900,
+        "level": 6
+      },
+      {
+        "championId": 103,
+        "points": 134500,
+        "level": 6
+      }
+    ]
+  }
+]

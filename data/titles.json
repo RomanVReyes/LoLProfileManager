@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eternal_summoner",
+    "name": "El Invocador Eterno",
+    "rarity": "Épico"
+  },
+  {
+    "id": "rift_legend",
+    "name": "Leyenda de la Grieta",
+    "rarity": "Legendario"
+  },
+  {
+    "id": "master_of_runes",
+    "name": "Maestro de las Runas",
+    "rarity": "Raro"
+  },
+  {
+    "id": "void_hunter",
+    "name": "Cazador del Vacío",
+    "rarity": "Épico"
+  },
+  {
+    "id": "demacian_guard",
+    "name": "Guardián Demaciano",
+    "rarity": "Común"
+  },
+  {
+    "id": "shadow_assassin",
+    "name": "Asesino Sombrío",
+    "rarity": "Raro"
+  },
+  {
+    "id": "starforged",
+    "name": "Forjado entre Estrellas",
+    "rarity": "Legendario"
+  },
+  {
+    "id": "hextech_prodigy",
+    "name": "Prodigio Hextech",
+    "rarity": "Épico"
+  },
+  {
+    "id": "the_undying",
+    "name": "El Imperecedero",
+    "rarity": "Raro"
+  },
+  {
+    "id": "honored_one",
+    "name": "El Honorable",
+    "rarity": "Común"
+  }
+]

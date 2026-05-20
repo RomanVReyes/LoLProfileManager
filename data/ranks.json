@@ -1,0 +1,57 @@
+[
+  {
+    "id": "unranked",
+    "name": "Sin Clasificar",
+    "icon": "unranked.png"
+  },
+  {
+    "id": "iron",
+    "name": "Hierro",
+    "icon": "rankIron.png"
+  },
+  {
+    "id": "bronze",
+    "name": "Bronce",
+    "icon": "rankBronze.png"
+  },
+  {
+    "id": "silver",
+    "name": "Plata",
+    "icon": "rankSilver.png"
+  },
+  {
+    "id": "gold",
+    "name": "Oro",
+    "icon": "rankGold.png"
+  },
+  {
+    "id": "platinum",
+    "name": "Platino",
+    "icon": "rankPlatinum.png"
+  },
+  {
+    "id": "emerald",
+    "name": "Esmeralda",
+    "icon": "rankEmerald.png"
+  },
+  {
+    "id": "diamond",
+    "name": "Diamante",
+    "icon": "rankDiamond.png"
+  },
+  {
+    "id": "master",
+    "name": "Master",
+    "icon": "rankMaster.png"
+  },
+  {
+    "id": "grandmaster",
+    "name": "Grandmaster",
+    "icon": "rankGrandmaster.png"
+  },
+  {
+    "id": "challenger",
+    "name": "Challenger",
+    "icon": "rankChallenger.png"
+  }
+]
