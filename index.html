@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LoL Profile Manager</title>
+
+  <link rel="stylesheet" href="./src/css/styles.css">
+  <link rel="stylesheet" href="./src/css/summary.css">
+</head>
+<body>
+  <main class="app">
+    <section class="search-section panel panel--hero">
+      <div class="brand-lockup">
+        <span class="brand-kicker">Perfil de Invocador</span>
+        <h1>LoL Profile Manager</h1>
+      </div>
+
+      <div class="search-box" role="search">
+        <input 
+          id="summoner-search" 
+          type="text" 
+          list="summoner-suggestions"
+          placeholder="Buscar invocador o #tag"
+          autocomplete="off"
+        >
+        <datalist id="summoner-suggestions"></datalist>
+
+        <button id="search-button">Buscar</button>
+      </div>
+
+      <p id="message"></p>
+    </section>
+
+    <section id="summary-content" class="summary-content"></section>
+  </main>
+
+  <script type="module" src="./src/js/app.js"></script>
+</body>
+</html>

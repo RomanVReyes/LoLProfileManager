@@ -1,0 +1,42 @@
+[
+  {
+    "level": 1,
+    "name": "Honor Nivel 1",
+    "unlock": "honor_1_unlock.png"
+  },
+  {
+    "level": 2,
+    "name": "Honor Nivel 2",
+    "intro": "honor_2_intro.png",
+    "stages": [
+      "honor_2-1.png",
+      "honor_2-2.png",
+      "honor_2-3.png"
+    ]
+  },
+  {
+    "level": 3,
+    "name": "Honor Nivel 3",
+    "intro": "honor_3_intro.png",
+    "stages": [
+      "honor_3-1.png",
+      "honor_3-2.png",
+      "honor_3-3.png"
+    ]
+  },
+  {
+    "level": 4,
+    "name": "Honor Nivel 4",
+    "intro": "honor_4_intro.png",
+    "stages": [
+      "honor_4-1.png",
+      "honor_4-2.png",
+      "honor_4-3.png"
+    ]
+  },
+  {
+    "level": 5,
+    "name": "Honor Nivel 5",
+    "emblem": "honor_5.png"
+  }
+]

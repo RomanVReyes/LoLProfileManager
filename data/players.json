@@ -8,23 +8,33 @@
     "level": 247,
     "currentXp": 1840,
     "requiredXp": 2500,
-    "banner": "banner_01.jpg",
-    "icon": "icon_01.png",
-    "borderIcon": "border_gold.png",
-    "honorLevel": 4,
+    "banner": "drmundo_splash_uncentered_3.jpg",
+    "icon": "7.webp",
+    "borderIcon": "prestige_crest_lvl_325.png",
+    "honor": {
+      "level": 4,
+      "name": "Honor Nivel 4",
+      "emblem": "honor_4-3.png",
+      "intro": "honor_4_intro.png",
+      "stages": [
+        "honor_4-1.png",
+        "honor_4-2.png",
+        "honor_4-3.png"
+      ]
+    },
     "masteryScore": 843250,
-    "medals": [
+    "tokens": [
       {
-        "name": "Veterano",
-        "icon": "medal_veteran.png"
+        "tier": "gold",
+        "icon": "1.png"
       },
       {
-        "name": "Estratega",
-        "icon": "medal_strategy.png"
+        "tier": "platinum",
+        "icon": "2.png"
       },
       {
-        "name": "Coleccionista",
-        "icon": "medal_collector.png"
+        "tier": "diamond",
+        "icon": "3.png"
       }
     ],
     "ranked": {
@@ -50,12 +60,12 @@
         "level": 7
       },
       {
-        "championId": 102,
+        "championId": 8,
         "points": 178900,
         "level": 6
       },
       {
-        "championId": 103,
+        "championId": 3,
         "points": 134500,
         "level": 6
       }
