@@ -3,13 +3,27 @@ import { state } from "./state.js";
 import { findPlayerByName, getPlayerSuggestions } from "./search.js";
 import { buildSummaryData } from "./services/summaryService.js";
 import { renderSummary } from "./render/renderSummary.js";
+import { renderMatchHistory } from "./render/renderMatchHistory.js";
 
 const searchInput = document.getElementById("summoner-search");
 const searchButton = document.getElementById("search-button");
 const suggestionsList = document.getElementById("summoner-suggestions");
 const message = document.getElementById("message");
+const profileTabs = document.getElementById("profile-tabs");
+const tabButtons = document.querySelectorAll(".profile-tab");
+const profilePanels = document.querySelectorAll(".profile-panel");
 
 searchButton.disabled = true;
+
+function setActiveTab(tabName) {
+  tabButtons.forEach(button => {
+    button.classList.toggle("is-active", button.dataset.tab === tabName);
+  });
+
+  profilePanels.forEach(panel => {
+    panel.hidden = panel.dataset.panel !== tabName;
+  });
+}
 
 function renderSuggestions(searchText = "") {
   if (!state.database || !suggestionsList) {
@@ -53,11 +67,20 @@ function handleSearch() {
   state.currentSummary = buildSummaryData(player, state.database);
 
   renderSummary(state.currentSummary);
+  renderMatchHistory(player, state.database);
 
+  profileTabs.hidden = false;
+  setActiveTab("summary");
   message.textContent = "";
 }
 
 searchButton.addEventListener("click", handleSearch);
+
+tabButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    setActiveTab(button.dataset.tab);
+  });
+});
 
 searchInput.addEventListener("input", () => {
   renderSuggestions(searchInput.value);

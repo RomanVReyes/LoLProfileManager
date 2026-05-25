@@ -14,13 +14,15 @@ export async function loadDatabase() {
     champions,
     ranks,
     honor,
-    titles
+    titles,
+    matches
   ] = await Promise.all([
     loadJSON("./data/players.json"),
     loadJSON("./data/champions.json"),
     loadJSON("./data/ranks.json"),
     loadJSON("./data/honor.json"),
-    loadJSON("./data/titles.json")
+    loadJSON("./data/titles.json"),
+    loadJSON("./data/matches.json")
   ]);
 
   return {
@@ -28,6 +30,7 @@ export async function loadDatabase() {
     champions,
     ranks,
     honor,
-    titles
+    titles,
+    matches
   };
 }
