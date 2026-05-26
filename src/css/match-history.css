@@ -84,6 +84,17 @@
     linear-gradient(90deg, rgba(18, 39, 58, 0.94), rgba(5, 14, 23, 0.94)),
     var(--color-panel);
   box-shadow: 0 12px 36px rgba(0, 0, 0, 0.28);
+  cursor: pointer;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.match-card:hover,
+.match-card:focus-visible,
+.match-card.is-selected {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-panel), var(--shadow-gold);
+  outline: 0;
+  transform: translateY(-1px);
 }
 
 .match-card--win {

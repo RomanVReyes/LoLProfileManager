@@ -1,0 +1,416 @@
+.match-details-slot {
+  margin-top: 16px;
+}
+
+.match-detail-empty,
+.match-detail,
+.detail-placeholder {
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+  background:
+    linear-gradient(180deg, rgba(18, 39, 58, 0.96), rgba(5, 14, 23, 0.96)),
+    var(--color-panel);
+  box-shadow: var(--shadow-panel);
+}
+
+.match-detail-empty,
+.detail-placeholder {
+  display: grid;
+  gap: 8px;
+  padding: 22px;
+  color: var(--color-muted);
+}
+
+.match-detail-empty strong,
+.detail-placeholder strong {
+  color: var(--color-text);
+}
+
+.match-detail {
+  overflow: hidden;
+}
+
+.match-detail--win {
+  border-top: 3px solid var(--color-blue);
+}
+
+.match-detail--draw {
+  border-top: 3px solid var(--color-gold);
+}
+
+.match-detail--loss {
+  border-top: 3px solid var(--color-danger);
+}
+
+.match-detail-hero {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) 1fr;
+  gap: 18px;
+  padding: 20px;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.14);
+  background:
+    linear-gradient(120deg, rgba(10, 200, 185, 0.1), transparent 42%),
+    linear-gradient(180deg, rgba(1, 7, 13, 0.2), rgba(1, 7, 13, 0.48));
+}
+
+.match-detail-result {
+  display: grid;
+  place-content: center;
+  min-height: 108px;
+  padding: 16px;
+  border: 1px solid var(--color-line-soft);
+  border-radius: var(--radius-sm);
+  text-align: center;
+  background: rgba(1, 7, 13, 0.54);
+}
+
+.match-detail-result span,
+.match-detail-facts span,
+.team-totals span,
+.scoreboard-team-header span,
+.scoreboard-extras h4,
+.objective-chip span,
+.participant-name span {
+  color: var(--color-muted);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.match-detail-result strong {
+  color: var(--color-gold-bright);
+  font-family: var(--font-display);
+  font-size: 34px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.match-detail-facts {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.match-detail-facts div {
+  display: grid;
+  align-content: center;
+  gap: 7px;
+  min-width: 0;
+  min-height: 108px;
+  padding: 14px;
+  border: 1px solid rgba(200, 155, 60, 0.12);
+  border-radius: var(--radius-sm);
+  background: rgba(1, 7, 13, 0.38);
+}
+
+.match-detail-facts strong {
+  overflow-wrap: anywhere;
+  color: var(--color-text);
+  font-size: 14px;
+}
+
+.match-detail-tabs {
+  display: flex;
+  gap: 6px;
+  padding: 12px 14px 0;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.16);
+  overflow-x: auto;
+}
+
+.match-detail-tab {
+  position: relative;
+  flex: 0 0 auto;
+  min-height: 42px;
+  padding: 0 14px;
+  color: var(--color-muted);
+  border: 1px solid transparent;
+  border-bottom: 0;
+  background: transparent;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.match-detail-tab::after {
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: -1px;
+  height: 2px;
+  content: "";
+  background: transparent;
+}
+
+.match-detail-tab:hover,
+.match-detail-tab.is-active {
+  color: var(--color-gold-bright);
+}
+
+.match-detail-tab.is-active {
+  border-color: rgba(200, 155, 60, 0.18);
+  background: linear-gradient(180deg, rgba(18, 39, 58, 0.78), rgba(1, 7, 13, 0.34));
+}
+
+.match-detail-tab.is-active::after {
+  background: var(--color-gold);
+}
+
+.match-detail-panel {
+  padding: 16px;
+}
+
+.scoreboard-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.scoreboard-team {
+  border: 1px solid rgba(200, 155, 60, 0.14);
+  border-left: 4px solid var(--color-gold);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: rgba(1, 7, 13, 0.42);
+}
+
+.scoreboard-team--win {
+  border-left-color: var(--color-blue);
+}
+
+.scoreboard-team--draw {
+  border-left-color: var(--color-gold);
+}
+
+.scoreboard-team--loss {
+  border-left-color: var(--color-danger);
+}
+
+.scoreboard-team-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  padding: 16px;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.12);
+  background: linear-gradient(90deg, rgba(18, 39, 58, 0.72), rgba(1, 7, 13, 0.32));
+}
+
+.scoreboard-team-header strong {
+  display: block;
+  margin-top: 4px;
+  color: var(--color-text);
+  font-size: 20px;
+}
+
+.team-totals {
+  display: flex;
+  gap: 10px;
+  text-align: right;
+}
+
+.team-totals div {
+  min-width: 116px;
+  padding: 10px;
+  border: 1px solid rgba(200, 155, 60, 0.12);
+  border-radius: var(--radius-sm);
+  background: rgba(1, 7, 13, 0.5);
+}
+
+.team-totals strong {
+  display: block;
+  margin-top: 4px;
+  color: var(--color-gold-bright);
+}
+
+.scoreboard-extras {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.8fr) minmax(0, 1.2fr);
+  gap: 14px;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.12);
+}
+
+.scoreboard-extras section {
+  min-width: 0;
+}
+
+.scoreboard-extras h4 {
+  margin: 0 0 8px;
+}
+
+.match-bans,
+.objective-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.match-ban,
+.participant-rune,
+.participant-champion,
+.participant-spells img,
+.participant-item-slot {
+  border: 1px solid rgba(200, 155, 60, 0.18);
+  border-radius: var(--radius-sm);
+  background: rgba(1, 7, 13, 0.66);
+  overflow: hidden;
+}
+
+.match-ban {
+  width: 34px;
+  height: 34px;
+  filter: grayscale(0.22);
+}
+
+.match-ban img,
+.participant-rune img,
+.participant-champion img,
+.participant-spells img,
+.participant-item-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.objective-chip {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 34px;
+  padding: 0 10px;
+  border: 1px solid rgba(200, 155, 60, 0.14);
+  border-radius: var(--radius-sm);
+  background: rgba(1, 7, 13, 0.52);
+}
+
+.objective-chip strong {
+  color: var(--color-gold-bright);
+}
+
+.scoreboard-table {
+  overflow-x: auto;
+}
+
+.scoreboard-row {
+  display: grid;
+  grid-template-columns: 38px 68px 42px 48px minmax(150px, 1fr) 234px 92px 52px 78px;
+  gap: 8px;
+  align-items: center;
+  min-width: 900px;
+  padding: 10px 16px;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.08);
+}
+
+.scoreboard-row:last-child {
+  border-bottom: 0;
+}
+
+.scoreboard-row--head {
+  min-height: 38px;
+  padding-block: 8px;
+  color: var(--color-dim);
+  background: rgba(1, 7, 13, 0.42);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.participant-rune,
+.participant-champion {
+  width: 38px;
+  height: 38px;
+}
+
+.participant-spells {
+  display: grid;
+  grid-template-columns: repeat(2, 30px);
+  gap: 5px;
+}
+
+.participant-spells img {
+  width: 30px;
+  height: 30px;
+}
+
+.participant-level {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  color: #07111d;
+  border: 1px solid var(--color-gold-bright);
+  border-radius: 50%;
+  background: linear-gradient(180deg, var(--color-gold-bright), var(--color-gold));
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.participant-name {
+  min-width: 0;
+}
+
+.participant-name strong,
+.participant-name span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.participant-name strong,
+.participant-kda strong,
+.participant-stat {
+  color: var(--color-text);
+  font-weight: 800;
+}
+
+.participant-items {
+  display: grid;
+  grid-template-columns: repeat(8, 24px);
+  gap: 5px;
+}
+
+.participant-item-slot {
+  width: 24px;
+  height: 24px;
+}
+
+.participant-kda,
+.participant-stat {
+  font-size: 13px;
+}
+
+@media (max-width: 1040px) {
+  .match-detail-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .match-detail-facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 720px) {
+  .match-detail-hero,
+  .match-detail-panel {
+    padding: 12px;
+  }
+
+  .match-detail-facts,
+  .scoreboard-extras {
+    grid-template-columns: 1fr;
+  }
+
+  .scoreboard-team-header,
+  .team-totals {
+    align-items: stretch;
+    flex-direction: column;
+    text-align: left;
+  }
+
+  .team-totals div {
+    min-width: 0;
+  }
+}

@@ -70,5 +70,71 @@
         "level": 6
       }
     ]
+  },
+  {
+    "id": 2,
+    "summonerName": "ZamaSacre",
+    "tag": "LAN",
+    "region": "Latinoamerica Norte",
+    "titleId": "eternal_summoner",
+    "level": 173,
+    "currentXp": 1101,
+    "requiredXp": 2500,
+    "banner": "jayce_splash_uncentered_24.jpg",
+    "icon": "28.webp",
+    "borderIcon": "prestige_crest_lvl_225.png",
+    "honor": {
+      "level": 5,
+      "name": "Honor Nivel 5",
+      "emblem": "honor_5.png"
+    },
+    "masteryScore": 461431,
+    "tokens": [
+      {
+        "tier": "master",
+        "icon": "4.png"
+      },
+      {
+        "tier": "diamond",
+        "icon": "3.png"
+      },
+      {
+        "tier": "silver",
+        "icon": "5.png"
+      }
+    ],
+    "ranked": {
+      "soloDuo": {
+        "tier": "master",
+        "division": "I",
+        "lp": 28,
+        "wins": 27,
+        "losses": 119
+      },
+      "flex": {
+        "tier": "gold",
+        "division": "IV",
+        "lp": 87,
+        "wins": 25,
+        "losses": 18
+      }
+    },
+    "championMastery": [
+      {
+        "championId": 6,
+        "points": 316420,
+        "level": 7
+      },
+      {
+        "championId": 26,
+        "points": 234974,
+        "level": 7
+      },
+      {
+        "championId": 24,
+        "points": 132211,
+        "level": 7
+      }
+    ]
   }
 ]

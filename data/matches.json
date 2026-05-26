@@ -9,8 +9,20 @@
     "durationSeconds": 1884,
     "championId": 1,
     "championLevel": 16,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Blade_of_the_Ruined_King_item_HD.png", "Bloodthirster_item_HD.png", "Cloak_of_Agility_item_HD.png", "B._F._Sword_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png", "Aether_Wisp_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Blade_of_the_Ruined_King_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "B._F._Sword_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png",
+      "Aether_Wisp_item_HD.png"
+    ],
     "kills": 12,
     "deaths": 4,
     "assists": 9,
@@ -27,8 +39,17 @@
     "durationSeconds": 1642,
     "championId": 8,
     "championLevel": 14,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Bloodthirster_item_HD.png", "Cloak_of_Agility_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 6,
     "deaths": 8,
     "assists": 7,
@@ -45,8 +66,18 @@
     "durationSeconds": 2116,
     "championId": 3,
     "championLevel": 18,
-    "spells": ["Flash_HD.png", "Ignite_HD.png"],
-    "items": ["Axiom_Arc_item_HD.png", "Black_Cleaver_item_HD.png", "Berserker's_Greaves_item_HD.png", "Death's_Dance_item_HD.png", "Caulfield's_Warhammer_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Axiom_Arc_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Berserker's_Greaves_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Caulfield's_Warhammer_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 15,
     "deaths": 5,
     "assists": 12,
@@ -63,8 +94,17 @@
     "durationSeconds": 1195,
     "championId": 14,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Exhaust_HD.png"],
-    "items": ["Archangel's_Staff_item_HD.png", "Ardent_Censer_item_HD.png", "Bandleglass_Mirror_item_HD.png", "Banshee's_Veil_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Exhaust_HD.png"
+    ],
+    "items": [
+      "Archangel's_Staff_item_HD.png",
+      "Ardent_Censer_item_HD.png",
+      "Bandleglass_Mirror_item_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 4,
     "deaths": 4,
     "assists": 26,
@@ -81,8 +121,18 @@
     "durationSeconds": 1768,
     "championId": 7,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Bloodthirster_item_HD.png", "Cloak_of_Agility_item_HD.png", "B._F._Sword_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "B._F._Sword_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 10,
     "deaths": 3,
     "assists": 8,
@@ -99,8 +149,17 @@
     "durationSeconds": 2018,
     "championId": 23,
     "championLevel": 16,
-    "spells": ["Flash_HD.png", "Ghost_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Blade_of_the_Ruined_King_item_HD.png", "Black_Cleaver_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ghost_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Blade_of_the_Ruined_King_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 9,
     "deaths": 10,
     "assists": 11,
@@ -117,8 +176,17 @@
     "durationSeconds": 1510,
     "championId": 6,
     "championLevel": 14,
-    "spells": ["Flash_HD.png", "Teleport_HD.png"],
-    "items": ["Black_Cleaver_item_HD.png", "Death's_Dance_item_HD.png", "Caulfield's_Warhammer_item_HD.png", "Boots_of_Swiftness_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Teleport_HD.png"
+    ],
+    "items": [
+      "Black_Cleaver_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Caulfield's_Warhammer_item_HD.png",
+      "Boots_of_Swiftness_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 7,
     "deaths": 2,
     "assists": 13,
@@ -135,8 +203,16 @@
     "durationSeconds": 982,
     "championId": 21,
     "championLevel": 13,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Ardent_Censer_item_HD.png", "Dawncore_item_HD.png", "Bandleglass_Mirror_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Ardent_Censer_item_HD.png",
+      "Dawncore_item_HD.png",
+      "Bandleglass_Mirror_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 2,
     "deaths": 7,
     "assists": 19,
@@ -153,8 +229,19 @@
     "durationSeconds": 1932,
     "championId": 1,
     "championLevel": 17,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Bloodthirster_item_HD.png", "Blade_of_the_Ruined_King_item_HD.png", "Cloak_of_Agility_item_HD.png", "B._F._Sword_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Blade_of_the_Ruined_King_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "B._F._Sword_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 13,
     "deaths": 6,
     "assists": 10,
@@ -171,8 +258,16 @@
     "durationSeconds": 1439,
     "championId": 8,
     "championLevel": 13,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Cloak_of_Agility_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 5,
     "deaths": 9,
     "assists": 4,
@@ -189,8 +284,18 @@
     "durationSeconds": 2240,
     "championId": 3,
     "championLevel": 18,
-    "spells": ["Flash_HD.png", "Ignite_HD.png"],
-    "items": ["Axiom_Arc_item_HD.png", "Black_Cleaver_item_HD.png", "Death's_Dance_item_HD.png", "Berserker's_Greaves_item_HD.png", "Caulfield's_Warhammer_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Axiom_Arc_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Berserker's_Greaves_item_HD.png",
+      "Caulfield's_Warhammer_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 18,
     "deaths": 7,
     "assists": 14,
@@ -207,8 +312,17 @@
     "durationSeconds": 1677,
     "championId": 20,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Teleport_HD.png"],
-    "items": ["Bami's_Cinder_item_HD.png", "Abyssal_Mask_item_HD.png", "Black_Cleaver_item_HD.png", "Bramble_Vest_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Teleport_HD.png"
+    ],
+    "items": [
+      "Bami's_Cinder_item_HD.png",
+      "Abyssal_Mask_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Bramble_Vest_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 4,
     "deaths": 3,
     "assists": 18,
@@ -225,8 +339,17 @@
     "durationSeconds": 1554,
     "championId": 12,
     "championLevel": 13,
-    "spells": ["Flash_HD.png", "Ignite_HD.png"],
-    "items": ["Celestial_Opposition_item_HD.png", "Bramble_Vest_item_HD.png", "Bandleglass_Mirror_item_HD.png", "Boots_of_Swiftness_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Celestial_Opposition_item_HD.png",
+      "Bramble_Vest_item_HD.png",
+      "Bandleglass_Mirror_item_HD.png",
+      "Boots_of_Swiftness_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 1,
     "deaths": 8,
     "assists": 21,
@@ -243,8 +366,17 @@
     "durationSeconds": 1284,
     "championId": 25,
     "championLevel": 16,
-    "spells": ["Flash_HD.png", "Barrier_HD.png"],
-    "items": ["Amplifying_Tome_item_HD.png", "Banshee's_Veil_item_HD.png", "Cosmic_Drive_item_HD.png", "Cryptbloom_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Barrier_HD.png"
+    ],
+    "items": [
+      "Amplifying_Tome_item_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Cosmic_Drive_item_HD.png",
+      "Cryptbloom_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 11,
     "deaths": 5,
     "assists": 22,
@@ -261,8 +393,17 @@
     "durationSeconds": 1848,
     "championId": 1,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Bloodthirster_item_HD.png", "Cloak_of_Agility_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 8,
     "deaths": 9,
     "assists": 6,
@@ -279,8 +420,18 @@
     "durationSeconds": 1721,
     "championId": 8,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Heal_HD.png"],
-    "items": ["Berserker's_Greaves_item_HD.png", "Blade_of_the_Ruined_King_item_HD.png", "Bloodthirster_item_HD.png", "B._F._Sword_item_HD.png", "Dagger_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Berserker's_Greaves_item_HD.png",
+      "Blade_of_the_Ruined_King_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "B._F._Sword_item_HD.png",
+      "Dagger_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 14,
     "deaths": 4,
     "assists": 7,
@@ -297,8 +448,16 @@
     "durationSeconds": 1891,
     "championId": 17,
     "championLevel": 16,
-    "spells": ["Flash_HD.png", "Ignite_HD.png"],
-    "items": ["Amplifying_Tome_item_HD.png", "Cosmic_Drive_item_HD.png", "Banshee's_Veil_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Amplifying_Tome_item_HD.png",
+      "Cosmic_Drive_item_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 9,
     "deaths": 9,
     "assists": 15,
@@ -315,8 +474,17 @@
     "durationSeconds": 2044,
     "championId": 29,
     "championLevel": 17,
-    "spells": ["Flash_HD.png", "Ghost_HD.png"],
-    "items": ["Black_Cleaver_item_HD.png", "Death's_Dance_item_HD.png", "Berserker's_Greaves_item_HD.png", "Bramble_Vest_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Ghost_HD.png"
+    ],
+    "items": [
+      "Black_Cleaver_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Berserker's_Greaves_item_HD.png",
+      "Bramble_Vest_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 10,
     "deaths": 5,
     "assists": 16,
@@ -333,8 +501,16 @@
     "durationSeconds": 1048,
     "championId": 19,
     "championLevel": 14,
-    "spells": ["Flash_HD.png", "Exhaust_HD.png"],
-    "items": ["Ardent_Censer_item_HD.png", "Dawncore_item_HD.png", "Bandleglass_Mirror_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Exhaust_HD.png"
+    ],
+    "items": [
+      "Ardent_Censer_item_HD.png",
+      "Dawncore_item_HD.png",
+      "Bandleglass_Mirror_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 3,
     "deaths": 8,
     "assists": 24,
@@ -351,12 +527,6163 @@
     "durationSeconds": 1588,
     "championId": 4,
     "championLevel": 15,
-    "spells": ["Flash_HD.png", "Smite_HD.png"],
-    "items": ["Axiom_Arc_item_HD.png", "Black_Cleaver_item_HD.png", "Caulfield's_Warhammer_item_HD.png", "Berserker's_Greaves_item_HD.png", "Control_Ward_item_HD.png"],
+    "spells": [
+      "Flash_HD.png",
+      "Smite_HD.png"
+    ],
+    "items": [
+      "Axiom_Arc_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Caulfield's_Warhammer_item_HD.png",
+      "Berserker's_Greaves_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
     "kills": 8,
     "deaths": 2,
     "assists": 12,
     "minionsKilled": 47,
     "goldEarned": 12380
+  },
+  {
+    "id": "LAN-P002-20260526-001",
+    "playerId": 2,
+    "createdAt": "2026-05-26T11:14:51.295148+00:00",
+    "result": "loss",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2135,
+    "championId": 8,
+    "championLevel": 12,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Ardent_Censer_item_HD.png",
+      "Eleisa's_Miracle_item_HD.png",
+      "Elixir_of_Sorcery_item_Winter_HD.png",
+      "Caulfield's_Warhammer_item_HD.png",
+      "Control_Ward_item_HD.png"
+    ],
+    "kills": 8,
+    "deaths": 9,
+    "assists": 23,
+    "minionsKilled": 269,
+    "goldEarned": 11598,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          6,
+          11,
+          9,
+          14,
+          17
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Silent Baron",
+            "championId": 20,
+            "championLevel": 12,
+            "mainRune": "precision/triumph.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Giant's_Belt_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Chempunk_Chainsword_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 1,
+            "assists": 2,
+            "minionsKilled": 227,
+            "goldEarned": 7820
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 27,
+            "championLevel": 17,
+            "mainRune": "resolve/secondwind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Force_of_Nature_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Cull_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 4,
+            "assists": 12,
+            "minionsKilled": 31,
+            "goldEarned": 13667
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 25,
+            "championLevel": 15,
+            "mainRune": "sorcery/summonaery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Farsight_Alteration_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 3,
+            "assists": 9,
+            "minionsKilled": 271,
+            "goldEarned": 17569
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 8,
+            "championLevel": 12,
+            "mainRune": "resolve/ironskin.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Ardent_Censer_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Control_Ward_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 9,
+            "assists": 23,
+            "minionsKilled": 269,
+            "goldEarned": 11598
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 21,
+            "championLevel": 15,
+            "mainRune": "precision/cutdown.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Galeforce_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Demonic_Embrace_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 9,
+            "assists": 19,
+            "minionsKilled": 69,
+            "goldEarned": 8705
+          }
+        ],
+        "kills": 28,
+        "deaths": 26,
+        "assists": 65,
+        "goldEarned": 59359
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          27,
+          11,
+          21,
+          12,
+          19
+        ],
+        "objectives": {
+          "torres": 11,
+          "dragones": 3,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 18,
+            "championLevel": 12,
+            "mainRune": "sorcery/axiom_arcanist.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Blighting_Jewel_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 8,
+            "assists": 4,
+            "minionsKilled": 177,
+            "goldEarned": 15716
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 26,
+            "championLevel": 18,
+            "mainRune": "inspiration/firststrike.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Diadem_of_Songs_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 9,
+            "assists": 11,
+            "minionsKilled": 24,
+            "goldEarned": 9124
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 28,
+            "championLevel": 16,
+            "mainRune": "domination/ultimatehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Bloodthirster_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Bastionbreaker_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 8,
+            "assists": 12,
+            "minionsKilled": 188,
+            "goldEarned": 16549
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 1,
+            "championLevel": 12,
+            "mainRune": "resolve/approachvelocity.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Fiendish_Codex_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Bami's_Cinder_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 7,
+            "assists": 5,
+            "minionsKilled": 228,
+            "goldEarned": 15130
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 19,
+            "championLevel": 16,
+            "mainRune": "inspiration/celestialbody.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Demonic_Embrace_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Cloth_Armor_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Doran's_Ring_item_HD.png"
+            ],
+            "kills": 14,
+            "deaths": 4,
+            "assists": 25,
+            "minionsKilled": 45,
+            "goldEarned": 10105
+          }
+        ],
+        "kills": 34,
+        "deaths": 36,
+        "assists": 57,
+        "goldEarned": 66624
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260526-002",
+    "playerId": 2,
+    "createdAt": "2026-05-26T07:14:51.295364+00:00",
+    "result": "win",
+    "gameMode": "ARAM",
+    "mapName": "Abismo de los Lamentos",
+    "durationSeconds": 1210,
+    "championId": 9,
+    "championLevel": 16,
+    "spells": [
+      "Flash_HD.png",
+      "Exhaust_HD.png"
+    ],
+    "items": [
+      "Amplifying_Tome_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Essence_Reaver_item_HD.png",
+      "Force_of_Nature_item_HD.png",
+      "1280px-Gambler's_Blade_item_HD.png"
+    ],
+    "kills": 16,
+    "deaths": 2,
+    "assists": 20,
+    "minionsKilled": 276,
+    "goldEarned": 12347,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          24,
+          26,
+          22,
+          20,
+          29
+        ],
+        "objectives": {
+          "torres": 10,
+          "dragones": 4,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 9,
+            "championLevel": 16,
+            "mainRune": "domination/cheapshot.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Amplifying_Tome_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Force_of_Nature_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png"
+            ],
+            "kills": 16,
+            "deaths": 2,
+            "assists": 20,
+            "minionsKilled": 276,
+            "goldEarned": 12347
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 24,
+            "championLevel": 12,
+            "mainRune": "sorcery/unflinching.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Crystalline_Bracer_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Cryptbloom_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 8,
+            "assists": 9,
+            "minionsKilled": 66,
+            "goldEarned": 16824
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 28,
+            "championLevel": 11,
+            "mainRune": "inspiration/cosmicinsight.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Bloodthirster_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Amplifying_Tome_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Decapitator_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 5,
+            "assists": 18,
+            "minionsKilled": 222,
+            "goldEarned": 16206
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 1,
+            "championLevel": 18,
+            "mainRune": "resolve/revitalize.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Blasting_Wand_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Fiendish_Codex_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 5,
+            "assists": 10,
+            "minionsKilled": 156,
+            "goldEarned": 16574
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 12,
+            "championLevel": 11,
+            "mainRune": "domination/greenterror_tasteofblood.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Bounty_of_Worlds_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Bastionbreaker_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 9,
+            "assists": 15,
+            "minionsKilled": 46,
+            "goldEarned": 14873
+          }
+        ],
+        "kills": 62,
+        "deaths": 29,
+        "assists": 72,
+        "goldEarned": 76824
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          13,
+          8,
+          16,
+          6,
+          11
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 1,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 18,
+            "championLevel": 15,
+            "mainRune": "precision/coupdegrace.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Bastionbreaker_item_HD.png",
+              "Actualizer_item_HD.png",
+              "Cull_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "Elixir_of_Sorcery_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Death's_Dance_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 8,
+            "assists": 4,
+            "minionsKilled": 161,
+            "goldEarned": 13077
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 26,
+            "championLevel": 17,
+            "mainRune": "domination/grislymementos.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Dragonheart_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Amplifying_Tome_item_HD.png"
+            ],
+            "kills": 0,
+            "deaths": 9,
+            "assists": 4,
+            "minionsKilled": 61,
+            "goldEarned": 14949
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 17,
+            "championLevel": 13,
+            "mainRune": "domination/ultimatehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Decapitator_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Cryptbloom_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 1,
+            "assists": 9,
+            "minionsKilled": 177,
+            "goldEarned": 14190
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 7,
+            "championLevel": 16,
+            "mainRune": "sorcery/arcanecomet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Crimson_Lucidity_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 5,
+            "assists": 17,
+            "minionsKilled": 204,
+            "goldEarned": 17027
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 14,
+            "championLevel": 15,
+            "mainRune": "resolve/overgrowth.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Bramble_Vest_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Dragonheart_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Galeforce_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 1,
+            "assists": 5,
+            "minionsKilled": 45,
+            "goldEarned": 11655
+          }
+        ],
+        "kills": 29,
+        "deaths": 24,
+        "assists": 39,
+        "goldEarned": 70898
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260525-003",
+    "playerId": 2,
+    "createdAt": "2026-05-25T23:14:51.295495+00:00",
+    "result": "loss",
+    "gameMode": "ARAM",
+    "mapName": "Abismo de los Lamentos",
+    "durationSeconds": 2326,
+    "championId": 28,
+    "championLevel": 12,
+    "spells": [
+      "Flash_HD.png",
+      "Exhaust_HD.png"
+    ],
+    "items": [
+      "Dawncore_item_HD.png",
+      "Doran's_Blade_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Nashor's_Tooth_item_HD.png",
+      "Demonic_Embrace_item_HD.png",
+      "Endless_Hunger_item_HD.png"
+    ],
+    "kills": 4,
+    "deaths": 10,
+    "assists": 22,
+    "minionsKilled": 145,
+    "goldEarned": 11613,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          30,
+          19,
+          20,
+          23,
+          25
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 0,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 29,
+            "championLevel": 18,
+            "mainRune": "inspiration/magicalfootwear.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Endless_Hunger_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Dream_Maker_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 4,
+            "assists": 10,
+            "minionsKilled": 265,
+            "goldEarned": 17142
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 24,
+            "championLevel": 12,
+            "mainRune": "sorcery/deathfire_touch_keystone.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Manamune_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Abyssal_Mask_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 5,
+            "assists": 12,
+            "minionsKilled": 47,
+            "goldEarned": 14569
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 28,
+            "championLevel": 12,
+            "mainRune": "precision/presenceofmind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Dawncore_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "Endless_Hunger_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 10,
+            "assists": 22,
+            "minionsKilled": 145,
+            "goldEarned": 11613
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 7,
+            "championLevel": 11,
+            "mainRune": "precision/absorblife.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Doran's_Blade_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Cull_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 9,
+            "assists": 24,
+            "minionsKilled": 259,
+            "goldEarned": 10438
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 13,
+            "championLevel": 18,
+            "mainRune": "resolve/conditioning.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Gluttonous_Greaves_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Essence_Reaver_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 6,
+            "assists": 3,
+            "minionsKilled": 54,
+            "goldEarned": 12679
+          }
+        ],
+        "kills": 34,
+        "deaths": 34,
+        "assists": 71,
+        "goldEarned": 66441
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          29,
+          19,
+          27,
+          8,
+          13
+        ],
+        "objectives": {
+          "torres": 11,
+          "dragones": 2,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 16,
+            "championLevel": 14,
+            "mainRune": "precision/lethaltempotemp.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Randuin's_Omen_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Executioner's_Calling_item_HD.png",
+              "Bami's_Cinder_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 4,
+            "assists": 14,
+            "minionsKilled": 250,
+            "goldEarned": 10392
+          },
+          {
+            "summonerName": "Rift Echo",
+            "championId": 27,
+            "championLevel": 14,
+            "mainRune": "resolve/demolish.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Blighting_Jewel_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Manamune_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 7,
+            "assists": 15,
+            "minionsKilled": 39,
+            "goldEarned": 8725
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 5,
+            "championLevel": 15,
+            "mainRune": "precision/legendhaste.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Armored_Advance_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Cryptbloom_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 3,
+            "assists": 21,
+            "minionsKilled": 206,
+            "goldEarned": 16744
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 1,
+            "championLevel": 18,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Essence_Reaver_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Forbidden_Idol_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Faerie_Charm_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 5,
+            "assists": 25,
+            "minionsKilled": 168,
+            "goldEarned": 8631
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 12,
+            "championLevel": 16,
+            "mainRune": "whimsy.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Nashor's_Tooth_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 5,
+            "assists": 8,
+            "minionsKilled": 63,
+            "goldEarned": 11046
+          }
+        ],
+        "kills": 50,
+        "deaths": 24,
+        "assists": 83,
+        "goldEarned": 55538
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260526-004",
+    "playerId": 2,
+    "createdAt": "2026-05-26T02:14:51.295613+00:00",
+    "result": "win",
+    "gameMode": "Normal Alternada",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1540,
+    "championId": 26,
+    "championLevel": 17,
+    "spells": [
+      "Flash_HD.png",
+      "Smite_HD.png"
+    ],
+    "items": [
+      "120px-Protoplasm_Harness_item_HD.png",
+      "Black_Cleaver_item_HD.png",
+      "Doran's_Bow_item_HD.png",
+      "Farsight_Alteration_item_HD.png"
+    ],
+    "kills": 14,
+    "deaths": 8,
+    "assists": 13,
+    "minionsKilled": 42,
+    "goldEarned": 10229,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          23,
+          20,
+          24,
+          17,
+          4
+        ],
+        "objectives": {
+          "torres": 8,
+          "dragones": 3,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 16,
+            "championLevel": 17,
+            "mainRune": "precision/conqueror.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Anathema's_Chains_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Blighting_Jewel_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Manamune_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 5,
+            "assists": 11,
+            "minionsKilled": 269,
+            "goldEarned": 17539
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 26,
+            "championLevel": 17,
+            "mainRune": "precision/lethaltempotemp.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Farsight_Alteration_item_HD.png"
+            ],
+            "kills": 14,
+            "deaths": 8,
+            "assists": 13,
+            "minionsKilled": 42,
+            "goldEarned": 10229
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 3,
+            "championLevel": 17,
+            "mainRune": "resolve/mirrorshell.png",
+            "spells": [
+              "Flash_HD.png",
+              "Unleashed_Teleport_HD.png"
+            ],
+            "items": [
+              "B._F._Sword_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Black_Spear_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 3,
+            "assists": 26,
+            "minionsKilled": 186,
+            "goldEarned": 12633
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 8,
+            "championLevel": 11,
+            "mainRune": "precision/presenceofmind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Nashor's_Tooth_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Bandlepipes_item_HD.png",
+              "Eclipse_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Flesheater_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 7,
+            "assists": 10,
+            "minionsKilled": 176,
+            "goldEarned": 16221
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 21,
+            "championLevel": 12,
+            "mainRune": "resolve/approachvelocity.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Everfrost_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Blighting_Jewel_item_HD.png",
+              "Archangel's_Staff_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 4,
+            "assists": 13,
+            "minionsKilled": 47,
+            "goldEarned": 15556
+          }
+        ],
+        "kills": 52,
+        "deaths": 27,
+        "assists": 73,
+        "goldEarned": 72178
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          17,
+          7,
+          10,
+          29,
+          2
+        ],
+        "objectives": {
+          "torres": 2,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 18,
+            "championLevel": 16,
+            "mainRune": "resolve.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Faerie_Charm_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Force_of_Nature_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 3,
+            "assists": 20,
+            "minionsKilled": 272,
+            "goldEarned": 8532
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 27,
+            "championLevel": 15,
+            "mainRune": "inspiration/jackofalltrades2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Nashor's_Tooth_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Death's_Dance_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 1,
+            "assists": 13,
+            "minionsKilled": 35,
+            "goldEarned": 8374
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 28,
+            "championLevel": 16,
+            "mainRune": "domination/zombieward.png",
+            "spells": [
+              "Flash_HD.png",
+              "Scorchclaw_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Crimson_Lucidity_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png",
+              "Cull_item_HD.png",
+              "Dragonheart_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 10,
+            "assists": 22,
+            "minionsKilled": 285,
+            "goldEarned": 9224
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 1,
+            "championLevel": 15,
+            "mainRune": "sorcery/manaflowband.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 2,
+            "assists": 6,
+            "minionsKilled": 253,
+            "goldEarned": 10727
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 19,
+            "championLevel": 13,
+            "mainRune": "domination/greenterror_tasteofblood.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Experimental_Hexplate_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Endless_Hunger_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Cull_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 5,
+            "assists": 7,
+            "minionsKilled": 27,
+            "goldEarned": 12702
+          }
+        ],
+        "kills": 21,
+        "deaths": 21,
+        "assists": 68,
+        "goldEarned": 49559
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260525-005",
+    "playerId": 2,
+    "createdAt": "2026-05-25T23:14:51.295725+00:00",
+    "result": "win",
+    "gameMode": "Clasificatoria Flexible",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2028,
+    "championId": 28,
+    "championLevel": 16,
+    "spells": [
+      "Flash_HD.png",
+      "Gustwalker_Primal_Smite_HD.png"
+    ],
+    "items": [
+      "Gluttonous_Greaves_item_HD.png",
+      "Blade_of_the_Ruined_King_item_HD.png",
+      "Flesheater_item_HD.png",
+      "Frozen_Heart_item_HD.png",
+      "Dark_Seal_item_HD.png"
+    ],
+    "kills": 5,
+    "deaths": 4,
+    "assists": 27,
+    "minionsKilled": 200,
+    "goldEarned": 11859,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          18,
+          24,
+          29,
+          27,
+          16
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "River Blade",
+            "championId": 29,
+            "championLevel": 13,
+            "mainRune": "sorcery/celeritytemp.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Nashor's_Tooth_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 9,
+            "assists": 25,
+            "minionsKilled": 232,
+            "goldEarned": 12639
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 4,
+            "championLevel": 18,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Bastionbreaker_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 4,
+            "assists": 20,
+            "minionsKilled": 25,
+            "goldEarned": 8430
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 28,
+            "championLevel": 16,
+            "mainRune": "domination/treasurehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Gustwalker_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Gluttonous_Greaves_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Dark_Seal_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 4,
+            "assists": 27,
+            "minionsKilled": 200,
+            "goldEarned": 11859
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 23,
+            "championLevel": 17,
+            "mainRune": "inspiration/magicalfootwear.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Edge_of_Night_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 10,
+            "assists": 12,
+            "minionsKilled": 241,
+            "goldEarned": 10598
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 12,
+            "championLevel": 16,
+            "mainRune": "sorcery/axiom_arcanist.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Cloth_Armor_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 3,
+            "assists": 23,
+            "minionsKilled": 59,
+            "goldEarned": 8224
+          }
+        ],
+        "kills": 54,
+        "deaths": 30,
+        "assists": 107,
+        "goldEarned": 51750
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          21,
+          20,
+          3,
+          5,
+          29
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 1,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 30,
+            "championLevel": 12,
+            "mainRune": "sorcery/absolutefocus.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Chempunk_Chainsword_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Bastionbreaker_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 7,
+            "assists": 15,
+            "minionsKilled": 223,
+            "goldEarned": 16732
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 27,
+            "championLevel": 15,
+            "mainRune": "resolve/overgrowth.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Cosmic_Drive_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Dragonheart_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 5,
+            "assists": 19,
+            "minionsKilled": 37,
+            "goldEarned": 10516
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 3,
+            "championLevel": 12,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Faerie_Charm_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 1,
+            "assists": 3,
+            "minionsKilled": 264,
+            "goldEarned": 15960
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 8,
+            "championLevel": 13,
+            "mainRune": "domination/sixthsense.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Celestial_Opposition_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 4,
+            "assists": 15,
+            "minionsKilled": 234,
+            "goldEarned": 17267
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 15,
+            "championLevel": 17,
+            "mainRune": "sorcery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 10,
+            "assists": 7,
+            "minionsKilled": 62,
+            "goldEarned": 16242
+          }
+        ],
+        "kills": 43,
+        "deaths": 27,
+        "assists": 59,
+        "goldEarned": 76717
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260526-006",
+    "playerId": 2,
+    "createdAt": "2026-05-26T01:14:51.295831+00:00",
+    "result": "win",
+    "gameMode": "ARAM",
+    "mapName": "Abismo de los Lamentos",
+    "durationSeconds": 2160,
+    "championId": 4,
+    "championLevel": 12,
+    "spells": [
+      "Flash_HD.png",
+      "Ghost_HD.png"
+    ],
+    "items": [
+      "Dragonheart_item_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Crystalline_Bracer_item_HD.png",
+      "Blackfire_Torch_item_HD.png",
+      "Fulmination_item_HD.png",
+      "Ardent_Censer_item_HD.png",
+      "Anathema's_Chains_item_HD.png"
+    ],
+    "kills": 16,
+    "deaths": 4,
+    "assists": 10,
+    "minionsKilled": 60,
+    "goldEarned": 16180,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          25,
+          21,
+          3,
+          16,
+          19
+        ],
+        "objectives": {
+          "torres": 8,
+          "dragones": 3,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 22,
+            "championLevel": 14,
+            "mainRune": "precision.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Bandleglass_Mirror_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Decapitator_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 3,
+            "assists": 22,
+            "minionsKilled": 227,
+            "goldEarned": 16826
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 4,
+            "championLevel": 12,
+            "mainRune": "resolve/graspoftheundying.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Dragonheart_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Fulmination_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Anathema's_Chains_item_HD.png"
+            ],
+            "kills": 16,
+            "deaths": 4,
+            "assists": 10,
+            "minionsKilled": 60,
+            "goldEarned": 16180
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 5,
+            "championLevel": 13,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Demon_King's_Crown_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Dagger_item_HD.png",
+              "Fulmination_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Actualizer_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 5,
+            "assists": 7,
+            "minionsKilled": 172,
+            "goldEarned": 15241
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 1,
+            "championLevel": 12,
+            "mainRune": "precision/fleetfootwork.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Everfrost_item_HD.png",
+              "Manamune_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Divine_Sunderer_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 9,
+            "assists": 10,
+            "minionsKilled": 233,
+            "goldEarned": 14887
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 14,
+            "championLevel": 16,
+            "mainRune": "resolve/fontoflife.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Demon_King's_Crown_item_HD.png",
+              "Edge_of_Night_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Armored_Advance_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 6,
+            "assists": 23,
+            "minionsKilled": 49,
+            "goldEarned": 13088
+          }
+        ],
+        "kills": 40,
+        "deaths": 27,
+        "assists": 72,
+        "goldEarned": 76222
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          14,
+          7,
+          12,
+          15,
+          1
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 1,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "River Blade",
+            "championId": 30,
+            "championLevel": 18,
+            "mainRune": "domination/cheapshot.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Aether_Wisp_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Archangel's_Staff_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 8,
+            "assists": 2,
+            "minionsKilled": 194,
+            "goldEarned": 11254
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 10,
+            "championLevel": 18,
+            "mainRune": "domination/greenterror_tasteofblood.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Farsight_Alteration_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 7,
+            "assists": 23,
+            "minionsKilled": 41,
+            "goldEarned": 13284
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 3,
+            "championLevel": 17,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Crystalline_Bracer_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Fimbulwinter_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 9,
+            "assists": 12,
+            "minionsKilled": 281,
+            "goldEarned": 12609
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 8,
+            "championLevel": 11,
+            "mainRune": "domination/relentlesshunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Black_Spear_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Elixir_of_Sorcery_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Glacial_Buckler_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 1,
+            "assists": 20,
+            "minionsKilled": 247,
+            "goldEarned": 12454
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 21,
+            "championLevel": 11,
+            "mainRune": "resolve/conditioning.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Abyssal_Mask_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 10,
+            "assists": 21,
+            "minionsKilled": 69,
+            "goldEarned": 13579
+          }
+        ],
+        "kills": 23,
+        "deaths": 35,
+        "assists": 78,
+        "goldEarned": 63180
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260525-007",
+    "playerId": 2,
+    "createdAt": "2026-05-25T23:14:51.295936+00:00",
+    "result": "loss",
+    "gameMode": "Clasificatoria Solo/Duo",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2033,
+    "championId": 2,
+    "championLevel": 15,
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Chempunk_Chainsword_item_HD.png",
+      "Cappa_Juice_item_HD.png",
+      "Control_Ward_item_HD.png",
+      "Forbidden_Idol_item_HD.png"
+    ],
+    "kills": 7,
+    "deaths": 5,
+    "assists": 4,
+    "minionsKilled": 257,
+    "goldEarned": 15856,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          10,
+          8,
+          4,
+          27,
+          18
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 0,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 2,
+            "championLevel": 15,
+            "mainRune": "sorcery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Chempunk_Chainsword_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Forbidden_Idol_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 5,
+            "assists": 4,
+            "minionsKilled": 257,
+            "goldEarned": 15856
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 4,
+            "championLevel": 18,
+            "mainRune": "resolve/overgrowth.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Gluttonous_Greaves_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Dream_Maker_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Doran's_Shield_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 7,
+            "assists": 19,
+            "minionsKilled": 67,
+            "goldEarned": 13602
+          },
+          {
+            "summonerName": "Rift Echo",
+            "championId": 17,
+            "championLevel": 18,
+            "mainRune": "inspiration/cosmicinsight.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Elixir_of_Iron_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 4,
+            "assists": 16,
+            "minionsKilled": 225,
+            "goldEarned": 9397
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 8,
+            "championLevel": 16,
+            "mainRune": "whimsy.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Sorcery_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Manamune_item_HD.png",
+              "Fated_Ashes_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 5,
+            "assists": 21,
+            "minionsKilled": 217,
+            "goldEarned": 11732
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 15,
+            "championLevel": 14,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Cryptbloom_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Archangel's_Staff_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 1,
+            "assists": 21,
+            "minionsKilled": 68,
+            "goldEarned": 12322
+          }
+        ],
+        "kills": 40,
+        "deaths": 22,
+        "assists": 81,
+        "goldEarned": 62909
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          9,
+          17,
+          27,
+          15,
+          19
+        ],
+        "objectives": {
+          "torres": 9,
+          "dragones": 4,
+          "baron": 0,
+          "herald": 1,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 29,
+            "championLevel": 13,
+            "mainRune": "resolve/approachvelocity.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Avarice_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Dark_Seal_item_HD.png",
+              "Edge_of_Night_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 1,
+            "assists": 8,
+            "minionsKilled": 171,
+            "goldEarned": 11918
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 10,
+            "championLevel": 18,
+            "mainRune": "resolve/revitalize.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "Dawncore_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 2,
+            "assists": 8,
+            "minionsKilled": 38,
+            "goldEarned": 15143
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 28,
+            "championLevel": 11,
+            "mainRune": "sorcery/6361.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Divine_Sunderer_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 4,
+            "assists": 10,
+            "minionsKilled": 229,
+            "goldEarned": 15331
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 7,
+            "championLevel": 18,
+            "mainRune": "domination/deepward.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Abyssal_Mask_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Dark_Seal_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 1,
+            "assists": 16,
+            "minionsKilled": 261,
+            "goldEarned": 10109
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 21,
+            "championLevel": 11,
+            "mainRune": "domination/ultimatehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Death's_Dance_item_HD.png",
+              "Cull_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Chempunk_Chainsword_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 2,
+            "assists": 12,
+            "minionsKilled": 38,
+            "goldEarned": 11460
+          }
+        ],
+        "kills": 46,
+        "deaths": 10,
+        "assists": 54,
+        "goldEarned": 63961
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260524-008",
+    "playerId": 2,
+    "createdAt": "2026-05-24T10:14:51.296040+00:00",
+    "result": "win",
+    "gameMode": "Clasificatoria Solo/Duo",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1356,
+    "championId": 3,
+    "championLevel": 11,
+    "spells": [
+      "Flash_HD.png",
+      "Clarity_HD.png"
+    ],
+    "items": [
+      "Doran's_Helm_item_HD.png",
+      "Elixir_of_Iron_item_Winter_HD.png",
+      "Elixir_of_Sorcery_item_Winter_HD.png",
+      "Eye_of_the_Herald_item_HD.png",
+      "B._F._Sword_item_HD.png"
+    ],
+    "kills": 8,
+    "deaths": 1,
+    "assists": 14,
+    "minionsKilled": 269,
+    "goldEarned": 16522,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          12,
+          25,
+          13,
+          8,
+          17
+        ],
+        "objectives": {
+          "torres": 9,
+          "dragones": 4,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 18,
+            "championLevel": 11,
+            "mainRune": "sorcery/axiom_arcanist.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Armored_Advance_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Bandlepipes_item_HD.png",
+              "Frozen_Heart_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 2,
+            "assists": 10,
+            "minionsKilled": 207,
+            "goldEarned": 13244
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 11,
+            "championLevel": 18,
+            "mainRune": "domination/deepward.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Black_Spear_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Death's_Dance_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 9,
+            "assists": 22,
+            "minionsKilled": 72,
+            "goldEarned": 7834
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 3,
+            "championLevel": 11,
+            "mainRune": "domination/grislymementos.png",
+            "spells": [
+              "Flash_HD.png",
+              "Clarity_HD.png"
+            ],
+            "items": [
+              "Doran's_Helm_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "B._F._Sword_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 1,
+            "assists": 14,
+            "minionsKilled": 269,
+            "goldEarned": 16522
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 7,
+            "championLevel": 14,
+            "mainRune": "sorcery/waterwalking.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Null-Magic_Mantle_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Everfrost_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 3,
+            "assists": 26,
+            "minionsKilled": 249,
+            "goldEarned": 15206
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 19,
+            "championLevel": 13,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Cryptbloom_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Edge_of_Night_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Glacial_Buckler_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 4,
+            "assists": 17,
+            "minionsKilled": 57,
+            "goldEarned": 14786
+          }
+        ],
+        "kills": 26,
+        "deaths": 19,
+        "assists": 89,
+        "goldEarned": 67592
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          25,
+          30,
+          6,
+          15,
+          23
+        ],
+        "objectives": {
+          "torres": 4,
+          "dragones": 0,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 9,
+            "championLevel": 15,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Bastionbreaker_item_HD.png",
+              "Dark_Seal_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Cull_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png"
+            ],
+            "kills": 0,
+            "deaths": 7,
+            "assists": 10,
+            "minionsKilled": 282,
+            "goldEarned": 7827
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 4,
+            "championLevel": 12,
+            "mainRune": "resolve/demolish.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Bami's_Cinder_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Banshee's_Veil_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 9,
+            "assists": 23,
+            "minionsKilled": 39,
+            "goldEarned": 17483
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 17,
+            "championLevel": 16,
+            "mainRune": "resolve/veteranaftershock.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Bloodsong_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Control_Ward_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 7,
+            "assists": 21,
+            "minionsKilled": 253,
+            "goldEarned": 16124
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 8,
+            "championLevel": 11,
+            "mainRune": "inspiration/glacialaugment.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Chempunk_Chainsword_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 3,
+            "assists": 15,
+            "minionsKilled": 166,
+            "goldEarned": 10363
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 13,
+            "championLevel": 13,
+            "mainRune": "sorcery/arcanecomet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Dusk_and_Dawn_item_HD.png",
+              "Endless_Hunger_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Actualizer_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 4,
+            "assists": 18,
+            "minionsKilled": 50,
+            "goldEarned": 12244
+          }
+        ],
+        "kills": 28,
+        "deaths": 30,
+        "assists": 87,
+        "goldEarned": 64041
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260525-009",
+    "playerId": 2,
+    "createdAt": "2026-05-25T03:14:51.296149+00:00",
+    "result": "loss",
+    "gameMode": "Clasificatoria Solo/Duo",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2200,
+    "championId": 8,
+    "championLevel": 14,
+    "spells": [
+      "Flash_HD.png",
+      "Cleanse_HD.png"
+    ],
+    "items": [
+      "Abyssal_Mask_item_HD.png",
+      "Bramble_Vest_item_HD.png",
+      "Black_Spear_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Aether_Wisp_item_HD.png"
+    ],
+    "kills": 5,
+    "deaths": 1,
+    "assists": 15,
+    "minionsKilled": 278,
+    "goldEarned": 8295,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          21,
+          12,
+          25,
+          19,
+          5
+        ],
+        "objectives": {
+          "torres": 2,
+          "dragones": 0,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 2,
+            "championLevel": 16,
+            "mainRune": "sorcery/laststand.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Force_item_HD.png",
+              "Dragonheart_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Doran's_Bow_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 2,
+            "assists": 19,
+            "minionsKilled": 272,
+            "goldEarned": 15058
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 26,
+            "championLevel": 14,
+            "mainRune": "domination/predator.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Galeforce_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 8,
+            "assists": 15,
+            "minionsKilled": 41,
+            "goldEarned": 15614
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 17,
+            "championLevel": 11,
+            "mainRune": "runesicon.png",
+            "spells": [
+              "Flash_HD.png",
+              "Scorchclaw_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Bandleglass_Mirror_item_HD.png",
+              "Elixir_of_Sorcery_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Anathema's_Chains_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 9,
+            "assists": 22,
+            "minionsKilled": 230,
+            "goldEarned": 16994
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 8,
+            "championLevel": 14,
+            "mainRune": "sorcery/transcendence.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Abyssal_Mask_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Aether_Wisp_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 1,
+            "assists": 15,
+            "minionsKilled": 278,
+            "goldEarned": 8295
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 21,
+            "championLevel": 13,
+            "mainRune": "domination/hailofblades.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Sorcery_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Doran's_Ring_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 3,
+            "assists": 23,
+            "minionsKilled": 36,
+            "goldEarned": 17444
+          }
+        ],
+        "kills": 23,
+        "deaths": 23,
+        "assists": 94,
+        "goldEarned": 73405
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          13,
+          10,
+          11,
+          12,
+          5
+        ],
+        "objectives": {
+          "torres": 7,
+          "dragones": 4,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 9,
+            "championLevel": 18,
+            "mainRune": "inspiration/celestialbody.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Cappa_Juice_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Dream_Maker_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 10,
+            "assists": 8,
+            "minionsKilled": 284,
+            "goldEarned": 17435
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 24,
+            "championLevel": 14,
+            "mainRune": "sorcery/transcendence.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Doran's_Shield_item_HD.png",
+              "Farsight_Alteration_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 2,
+            "assists": 16,
+            "minionsKilled": 28,
+            "goldEarned": 15517
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 28,
+            "championLevel": 13,
+            "mainRune": "domination/sixthsense.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Cull_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 10,
+            "assists": 21,
+            "minionsKilled": 197,
+            "goldEarned": 15050
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 23,
+            "championLevel": 17,
+            "mainRune": "resolve/veteranaftershock.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Force_of_Entropy_item_HD.png",
+              "Endless_Hunger_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Dagger_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 8,
+            "assists": 4,
+            "minionsKilled": 181,
+            "goldEarned": 14490
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 15,
+            "championLevel": 11,
+            "mainRune": "resolve/revitalize.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Actualizer_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Crimson_Lucidity_item_HD.png",
+              "Bloodthirster_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 9,
+            "assists": 11,
+            "minionsKilled": 33,
+            "goldEarned": 15676
+          }
+        ],
+        "kills": 38,
+        "deaths": 39,
+        "assists": 60,
+        "goldEarned": 78168
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260524-010",
+    "playerId": 2,
+    "createdAt": "2026-05-24T14:14:51.296272+00:00",
+    "result": "win",
+    "gameMode": "Clasificatoria Solo/Duo",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1702,
+    "championId": 19,
+    "championLevel": 13,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Elixir_of_Force_item_HD.png",
+      "Bloodletter's_Curse_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Giant's_Belt_item_HD.png",
+      "Cappa_Juice_item_HD.png",
+      "Black_Spear_item_HD.png"
+    ],
+    "kills": 7,
+    "deaths": 4,
+    "assists": 19,
+    "minionsKilled": 51,
+    "goldEarned": 13730,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          23,
+          16,
+          14,
+          24,
+          11
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 3,
+          "baron": 2,
+          "herald": 1,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "River Blade",
+            "championId": 6,
+            "championLevel": 16,
+            "mainRune": "inspiration/hextechflashtraption.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Bloodletter's_Curse_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Cloth_Armor_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Amplifying_Tome_item_HD.png",
+              "B._F._Sword_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 10,
+            "assists": 10,
+            "minionsKilled": 263,
+            "goldEarned": 11795
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 26,
+            "championLevel": 16,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Armored_Advance_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Abyssal_Mask_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 9,
+            "assists": 9,
+            "minionsKilled": 60,
+            "goldEarned": 13686
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 28,
+            "championLevel": 18,
+            "mainRune": "domination/relentlesshunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Cappa_Juice_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Everfrost_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 5,
+            "assists": 10,
+            "minionsKilled": 176,
+            "goldEarned": 13227
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 8,
+            "championLevel": 16,
+            "mainRune": "domination/treasurehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Bloodthirster_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "Amplifying_Tome_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Dragonheart_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Dawncore_item_HD.png",
+              "Glacial_Buckler_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 6,
+            "assists": 23,
+            "minionsKilled": 244,
+            "goldEarned": 9686
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 19,
+            "championLevel": 13,
+            "mainRune": "resolve/secondwind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Force_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Black_Spear_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 4,
+            "assists": 19,
+            "minionsKilled": 51,
+            "goldEarned": 13730
+          }
+        ],
+        "kills": 49,
+        "deaths": 34,
+        "assists": 71,
+        "goldEarned": 62124
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          21,
+          16,
+          17,
+          5,
+          6
+        ],
+        "objectives": {
+          "torres": 4,
+          "dragones": 0,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 18,
+            "championLevel": 12,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Cull_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Ardent_Censer_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Crimson_Lucidity_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 8,
+            "assists": 2,
+            "minionsKilled": 262,
+            "goldEarned": 16471
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 24,
+            "championLevel": 13,
+            "mainRune": "domination/suddenimpact.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Glowing_Mote_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "B._F._Sword_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 8,
+            "assists": 3,
+            "minionsKilled": 47,
+            "goldEarned": 17560
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 5,
+            "championLevel": 11,
+            "mainRune": "precision/presstheattack.png",
+            "spells": [
+              "Flash_HD.png",
+              "Recall_HD.png"
+            ],
+            "items": [
+              "Demonic_Embrace_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 8,
+            "assists": 11,
+            "minionsKilled": 183,
+            "goldEarned": 12401
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 23,
+            "championLevel": 12,
+            "mainRune": "resolve/chrysalis.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Doran's_Blade_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Death's_Dance_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 7,
+            "assists": 13,
+            "minionsKilled": 209,
+            "goldEarned": 13764
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 21,
+            "championLevel": 11,
+            "mainRune": "inspiration/cosmicinsight.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Doran's_Helm_item_HD.png",
+              "Crimson_Lucidity_item_HD.png",
+              "Actualizer_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Banshee's_Veil_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 3,
+            "assists": 6,
+            "minionsKilled": 39,
+            "goldEarned": 16690
+          }
+        ],
+        "kills": 34,
+        "deaths": 34,
+        "assists": 35,
+        "goldEarned": 76886
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260524-011",
+    "playerId": 2,
+    "createdAt": "2026-05-24T09:14:51.296386+00:00",
+    "result": "win",
+    "gameMode": "Normal Alternada",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1554,
+    "championId": 19,
+    "championLevel": 15,
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Doran's_Bow_item_HD.png",
+      "Divine_Sunderer_item_HD.png",
+      "Bami's_Cinder_item_HD.png",
+      "Duskblade_of_Draktharr_item_HD.png",
+      "Manamune_item_HD.png"
+    ],
+    "kills": 4,
+    "deaths": 4,
+    "assists": 28,
+    "minionsKilled": 24,
+    "goldEarned": 17394,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          21,
+          18,
+          26,
+          10,
+          13
+        ],
+        "objectives": {
+          "torres": 8,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Silent Baron",
+            "championId": 9,
+            "championLevel": 13,
+            "mainRune": "domination/electrocute.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Executioner's_Calling_item_HD.png",
+              "Giant's_Belt_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 3,
+            "assists": 13,
+            "minionsKilled": 248,
+            "goldEarned": 11344
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 24,
+            "championLevel": 11,
+            "mainRune": "sorcery/summonaery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Demon_King's_Crown_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Echoes_of_Helia_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 7,
+            "assists": 6,
+            "minionsKilled": 28,
+            "goldEarned": 10596
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 28,
+            "championLevel": 16,
+            "mainRune": "resolve/conditioning.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Force_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Ardent_Censer_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 1,
+            "assists": 7,
+            "minionsKilled": 241,
+            "goldEarned": 11608
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 8,
+            "championLevel": 16,
+            "mainRune": "sorcery/absolutefocus.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Giant's_Belt_item_HD.png",
+              "Cull_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Endless_Hunger_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 10,
+            "assists": 19,
+            "minionsKilled": 187,
+            "goldEarned": 13355
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 19,
+            "championLevel": 15,
+            "mainRune": "inspiration/cashback2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Doran's_Bow_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Manamune_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 4,
+            "assists": 28,
+            "minionsKilled": 24,
+            "goldEarned": 17394
+          }
+        ],
+        "kills": 43,
+        "deaths": 25,
+        "assists": 73,
+        "goldEarned": 64297
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          1,
+          10,
+          3,
+          22,
+          17
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 2,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 22,
+            "championLevel": 17,
+            "mainRune": "resolve/revitalize.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Cappa_Juice_item_HD.png",
+              "Glacial_Buckler_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Decapitator_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 10,
+            "assists": 2,
+            "minionsKilled": 269,
+            "goldEarned": 14313
+          },
+          {
+            "summonerName": "Rift Echo",
+            "championId": 4,
+            "championLevel": 17,
+            "mainRune": "sorcery/unflinching.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Actualizer_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Cull_item_HD.png",
+              "Doran's_Helm_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 6,
+            "assists": 5,
+            "minionsKilled": 50,
+            "goldEarned": 15548
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 5,
+            "championLevel": 15,
+            "mainRune": "precision/cutdown.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Bandleglass_Mirror_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Cloth_Armor_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Dream_Maker_item_HD.png",
+              "Bramble_Vest_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 1,
+            "assists": 11,
+            "minionsKilled": 224,
+            "goldEarned": 13409
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 1,
+            "championLevel": 11,
+            "mainRune": "inspiration/unsealedspellbook.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Chainlaced_Crushers_item_HD.png",
+              "Chempunk_Chainsword_item_HD.png",
+              "Dark_Seal_item_HD.png",
+              "Farsight_Alteration_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Dawncore_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 8,
+            "assists": 3,
+            "minionsKilled": 253,
+            "goldEarned": 13980
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 15,
+            "championLevel": 12,
+            "mainRune": "domination/treasurehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Force_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png",
+              "Bami's_Cinder_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 3,
+            "assists": 24,
+            "minionsKilled": 40,
+            "goldEarned": 17281
+          }
+        ],
+        "kills": 32,
+        "deaths": 28,
+        "assists": 45,
+        "goldEarned": 74531
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260524-012",
+    "playerId": 2,
+    "createdAt": "2026-05-24T04:14:51.296502+00:00",
+    "result": "loss",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2429,
+    "championId": 14,
+    "championLevel": 13,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Anathema's_Chains_item_HD.png",
+      "Glowing_Mote_item_HD.png",
+      "Everfrost_item_HD.png",
+      "Armored_Advance_item_HD.png",
+      "Crown_of_the_Shattered_Queen_item_HD.png"
+    ],
+    "kills": 6,
+    "deaths": 1,
+    "assists": 7,
+    "minionsKilled": 33,
+    "goldEarned": 14584,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          27,
+          25,
+          11,
+          23,
+          26
+        ],
+        "objectives": {
+          "torres": 2,
+          "dragones": 1,
+          "baron": 0,
+          "herald": 1,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Solar Warden",
+            "championId": 16,
+            "championLevel": 17,
+            "mainRune": "inspiration/jackofalltrades2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Essence_Reaver_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Amplifying_Tome_item_HD.png",
+              "Dagger_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 2,
+            "assists": 5,
+            "minionsKilled": 183,
+            "goldEarned": 13291
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 26,
+            "championLevel": 12,
+            "mainRune": "inspiration/hextechflashtraption.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Dead_Man's_Plate_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Dagger_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Manamune_item_HD.png",
+              "Flesheater_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 8,
+            "assists": 5,
+            "minionsKilled": 66,
+            "goldEarned": 9702
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 3,
+            "championLevel": 15,
+            "mainRune": "inspiration/celestialbody.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Ardent_Censer_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Glacial_Buckler_item_HD.png",
+              "Force_of_Nature_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 10,
+            "assists": 19,
+            "minionsKilled": 256,
+            "goldEarned": 8085
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 23,
+            "championLevel": 16,
+            "mainRune": "runesicon.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Executioner's_Calling_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Banshee's_Veil_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 1,
+            "assists": 3,
+            "minionsKilled": 254,
+            "goldEarned": 15311
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 14,
+            "championLevel": 13,
+            "mainRune": "runesicon.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Anathema's_Chains_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 1,
+            "assists": 7,
+            "minionsKilled": 33,
+            "goldEarned": 14584
+          }
+        ],
+        "kills": 41,
+        "deaths": 22,
+        "assists": 39,
+        "goldEarned": 60973
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          1,
+          6,
+          14,
+          9,
+          20
+        ],
+        "objectives": {
+          "torres": 9,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 18,
+            "championLevel": 17,
+            "mainRune": "domination/suddenimpact.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Crimson_Lucidity_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Black_Spear_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 4,
+            "assists": 19,
+            "minionsKilled": 236,
+            "goldEarned": 9584
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 27,
+            "championLevel": 13,
+            "mainRune": "domination/ingenioushunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Eye_of_the_Herald_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Blighting_Jewel_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 4,
+            "assists": 12,
+            "minionsKilled": 69,
+            "goldEarned": 17739
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 17,
+            "championLevel": 16,
+            "mainRune": "sorcery/unflinching.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Catalyst_of_Aeons_item_HD.png",
+              "Abyssal_Mask_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 8,
+            "assists": 14,
+            "minionsKilled": 165,
+            "goldEarned": 11623
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 7,
+            "championLevel": 14,
+            "mainRune": "resolve/graspoftheundying.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Doran's_Blade_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Black_Spear_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 2,
+            "assists": 25,
+            "minionsKilled": 175,
+            "goldEarned": 8000
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 15,
+            "championLevel": 12,
+            "mainRune": "resolve/revitalize.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Bami's_Cinder_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Forbidden_Idol_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 4,
+            "assists": 26,
+            "minionsKilled": 25,
+            "goldEarned": 11244
+          }
+        ],
+        "kills": 47,
+        "deaths": 22,
+        "assists": 96,
+        "goldEarned": 58190
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260523-013",
+    "playerId": 2,
+    "createdAt": "2026-05-23T23:14:51.296609+00:00",
+    "result": "loss",
+    "gameMode": "Clasificatoria Solo/Duo",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1533,
+    "championId": 21,
+    "championLevel": 17,
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Glowing_Mote_item_HD.png",
+      "Elixir_of_Wrath_item_Winter_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Eleisa's_Miracle_item_HD.png",
+      "Blasting_Wand_item_HD.png",
+      "Decapitator_item_HD.png",
+      "Executioner's_Calling_item_HD.png",
+      "Diamond-Tipped_Spear_item_HD.png"
+    ],
+    "kills": 2,
+    "deaths": 7,
+    "assists": 21,
+    "minionsKilled": 24,
+    "goldEarned": 15851,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          27,
+          19,
+          18,
+          9,
+          2
+        ],
+        "objectives": {
+          "torres": 3,
+          "dragones": 0,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 22,
+            "championLevel": 18,
+            "mainRune": "sorcery/deathfire_touch_keystone.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Glacial_Buckler_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Empyrean_Promise_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 4,
+            "assists": 2,
+            "minionsKilled": 196,
+            "goldEarned": 8432
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 27,
+            "championLevel": 18,
+            "mainRune": "precision/presenceofmind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Gluttonous_Greaves_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Bandlepipes_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Crimson_Lucidity_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 2,
+            "assists": 15,
+            "minionsKilled": 44,
+            "goldEarned": 13660
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 5,
+            "championLevel": 17,
+            "mainRune": "sorcery/arcanecomet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Sorcery_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Cryptbloom_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Edge_of_Night_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 6,
+            "assists": 18,
+            "minionsKilled": 284,
+            "goldEarned": 13092
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 7,
+            "championLevel": 14,
+            "mainRune": "sorcery/laststand.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Catalyst_of_Aeons_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Cull_item_HD.png",
+              "Faerie_Charm_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 10,
+            "assists": 12,
+            "minionsKilled": 202,
+            "goldEarned": 10958
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 21,
+            "championLevel": 17,
+            "mainRune": "sorcery/stormraiderssurgeruneicon2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Glowing_Mote_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Executioner's_Calling_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 7,
+            "assists": 21,
+            "minionsKilled": 24,
+            "goldEarned": 15851
+          }
+        ],
+        "kills": 36,
+        "deaths": 29,
+        "assists": 68,
+        "goldEarned": 61993
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          8,
+          15,
+          1,
+          3,
+          25
+        ],
+        "objectives": {
+          "torres": 11,
+          "dragones": 3,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Void Signal",
+            "championId": 30,
+            "championLevel": 13,
+            "mainRune": "sorcery/gatheringstorm.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Cappa_Juice_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png"
+            ],
+            "kills": 14,
+            "deaths": 5,
+            "assists": 20,
+            "minionsKilled": 190,
+            "goldEarned": 10849
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 4,
+            "championLevel": 12,
+            "mainRune": "sorcery/waterwalking.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Dead_Man's_Plate_item_HD.png",
+              "Forbidden_Idol_item_HD.png",
+              "Cull_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 6,
+            "assists": 7,
+            "minionsKilled": 70,
+            "goldEarned": 13377
+          },
+          {
+            "summonerName": "Rift Echo",
+            "championId": 28,
+            "championLevel": 18,
+            "mainRune": "precision.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Actualizer_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 1,
+            "assists": 10,
+            "minionsKilled": 174,
+            "goldEarned": 16874
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 23,
+            "championLevel": 13,
+            "mainRune": "sorcery/unflinching.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Chempunk_Chainsword_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Blighting_Jewel_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 9,
+            "assists": 16,
+            "minionsKilled": 166,
+            "goldEarned": 9890
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 12,
+            "championLevel": 12,
+            "mainRune": "inspiration/cashback2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Dark_Seal_item_HD.png",
+              "Crimson_Lucidity_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Flesheater_item_HD.png",
+              "Fimbulwinter_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 6,
+            "assists": 19,
+            "minionsKilled": 51,
+            "goldEarned": 14231
+          }
+        ],
+        "kills": 50,
+        "deaths": 27,
+        "assists": 72,
+        "goldEarned": 65221
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260522-014",
+    "playerId": 2,
+    "createdAt": "2026-05-22T16:14:51.296717+00:00",
+    "result": "win",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2100,
+    "championId": 13,
+    "championLevel": 18,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Anathema's_Chains_item_HD.png",
+      "Eclipse_item_HD.png",
+      "Elixir_of_Wrath_item_Winter_HD.png",
+      "Cloak_of_Starry_Night_item_HD.png",
+      "Everfrost_item_HD.png",
+      "Elixir_of_Iron_item_HD.png",
+      "Decapitator_item_HD.png",
+      "Crown_of_the_Shattered_Queen_item_HD.png"
+    ],
+    "kills": 15,
+    "deaths": 10,
+    "assists": 12,
+    "minionsKilled": 36,
+    "goldEarned": 9968,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          8,
+          24,
+          19,
+          28,
+          29
+        ],
+        "objectives": {
+          "torres": 10,
+          "dragones": 3,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 2
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 20,
+            "championLevel": 18,
+            "mainRune": "inspiration/biscuitdelivery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Actualizer_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 6,
+            "assists": 19,
+            "minionsKilled": 159,
+            "goldEarned": 17020
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 24,
+            "championLevel": 18,
+            "mainRune": "domination/greenterror_tasteofblood.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Actualizer_item_HD.png",
+              "Eclipse_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Cloak_of_Agility_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 1,
+            "assists": 12,
+            "minionsKilled": 62,
+            "goldEarned": 10835
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 25,
+            "championLevel": 11,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Eclipse_item_HD.png",
+              "Forbidden_Idol_item_HD.png",
+              "Chempunk_Chainsword_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 3,
+            "assists": 20,
+            "minionsKilled": 229,
+            "goldEarned": 15064
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 7,
+            "championLevel": 17,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Doran's_Helm_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Dream_Maker_item_HD.png",
+              "Doran's_Ring_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 4,
+            "assists": 21,
+            "minionsKilled": 244,
+            "goldEarned": 14369
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 13,
+            "championLevel": 18,
+            "mainRune": "precision/presstheattack.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Anathema's_Chains_item_HD.png",
+              "Eclipse_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 10,
+            "assists": 12,
+            "minionsKilled": 36,
+            "goldEarned": 9968
+          }
+        ],
+        "kills": 45,
+        "deaths": 24,
+        "assists": 84,
+        "goldEarned": 67256
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          24,
+          26,
+          28,
+          7,
+          17
+        ],
+        "objectives": {
+          "torres": 7,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "River Blade",
+            "championId": 30,
+            "championLevel": 18,
+            "mainRune": "resolve/secondwind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Dawncore_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Divine_Sunderer_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 8,
+            "assists": 21,
+            "minionsKilled": 226,
+            "goldEarned": 12321
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 27,
+            "championLevel": 15,
+            "mainRune": "domination/relentlesshunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Bami's_Cinder_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 2,
+            "assists": 16,
+            "minionsKilled": 37,
+            "goldEarned": 8605
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 17,
+            "championLevel": 17,
+            "mainRune": "inspiration/cashback2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Scorchclaw_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Executioner's_Calling_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Glacial_Buckler_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 7,
+            "assists": 22,
+            "minionsKilled": 228,
+            "goldEarned": 9170
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 8,
+            "championLevel": 14,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Bramble_Vest_item_HD.png",
+              "Banshee's_Veil_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 1,
+            "assists": 12,
+            "minionsKilled": 230,
+            "goldEarned": 10645
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 12,
+            "championLevel": 12,
+            "mainRune": "sorcery/waterwalking.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Eye_of_the_Herald_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Blackfire_Torch_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 7,
+            "assists": 8,
+            "minionsKilled": 61,
+            "goldEarned": 17761
+          }
+        ],
+        "kills": 50,
+        "deaths": 25,
+        "assists": 79,
+        "goldEarned": 58502
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260525-015",
+    "playerId": 2,
+    "createdAt": "2026-05-25T07:14:51.296823+00:00",
+    "result": "loss",
+    "gameMode": "Normal Alternada",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1974,
+    "championId": 23,
+    "championLevel": 13,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Fiendish_Codex_item_HD.png",
+      "Chainlaced_Crushers_item_HD.png",
+      "Duskblade_of_Draktharr_item_HD.png",
+      "Force_of_Nature_item_HD.png",
+      "Elixir_of_Iron_item_HD.png"
+    ],
+    "kills": 11,
+    "deaths": 3,
+    "assists": 22,
+    "minionsKilled": 194,
+    "goldEarned": 11989,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          3,
+          29,
+          30,
+          17,
+          26
+        ],
+        "objectives": {
+          "torres": 1,
+          "dragones": 0,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Silent Baron",
+            "championId": 22,
+            "championLevel": 13,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Bramble_Vest_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 6,
+            "assists": 16,
+            "minionsKilled": 256,
+            "goldEarned": 16868
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 11,
+            "championLevel": 18,
+            "mainRune": "resolve/approachvelocity.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Glowing_Mote_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Archangel's_Staff_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 3,
+            "assists": 5,
+            "minionsKilled": 55,
+            "goldEarned": 8368
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 3,
+            "championLevel": 13,
+            "mainRune": "sorcery/scorch.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Iron_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Control_Ward_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 1,
+            "assists": 4,
+            "minionsKilled": 264,
+            "goldEarned": 14101
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 23,
+            "championLevel": 13,
+            "mainRune": "resolve/overgrowth.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Fiendish_Codex_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Force_of_Nature_item_HD.png",
+              "Elixir_of_Iron_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 3,
+            "assists": 22,
+            "minionsKilled": 194,
+            "goldEarned": 11989
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 21,
+            "championLevel": 16,
+            "mainRune": "domination/treasurehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Forbidden_Idol_item_HD.png",
+              "Fulmination_item_HD.png",
+              "Cloak_of_Starry_Night_item_HD.png",
+              "Edge_of_Night_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 7,
+            "assists": 11,
+            "minionsKilled": 56,
+            "goldEarned": 16055
+          }
+        ],
+        "kills": 36,
+        "deaths": 20,
+        "assists": 58,
+        "goldEarned": 67381
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          25,
+          14,
+          20,
+          16,
+          5
+        ],
+        "objectives": {
+          "torres": 11,
+          "dragones": 4,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 6,
+            "championLevel": 13,
+            "mainRune": "precision/lethaltempotemp.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Endless_Hunger_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Frozen_Heart_item_HD.png",
+              "Crimson_Lucidity_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 1,
+            "assists": 15,
+            "minionsKilled": 268,
+            "goldEarned": 17319
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 4,
+            "championLevel": 13,
+            "mainRune": "inspiration/timewarptonic.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Aether_Wisp_item_HD.png",
+              "Control_Ward_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Fiendhunter_Bolts_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 9,
+            "assists": 25,
+            "minionsKilled": 38,
+            "goldEarned": 13278
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 5,
+            "championLevel": 13,
+            "mainRune": "precision/presstheattack.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Bloodsong_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Farsight_Alteration_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 1,
+            "assists": 19,
+            "minionsKilled": 220,
+            "goldEarned": 13520
+          },
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 7,
+            "championLevel": 15,
+            "mainRune": "domination/ultimatehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Cloth_Armor_item_HD.png",
+              "Demonic_Embrace_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Elixir_of_Sorcery_item_HD.png",
+              "Doran's_Shield_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 4,
+            "assists": 26,
+            "minionsKilled": 282,
+            "goldEarned": 9723
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 14,
+            "championLevel": 12,
+            "mainRune": "domination/grislymementos.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Diadem_of_Songs_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Manamune_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Elixir_of_Iron_item_Winter_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 9,
+            "assists": 6,
+            "minionsKilled": 31,
+            "goldEarned": 13000
+          }
+        ],
+        "kills": 46,
+        "deaths": 24,
+        "assists": 91,
+        "goldEarned": 66840
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260522-016",
+    "playerId": 2,
+    "createdAt": "2026-05-22T02:14:51.296944+00:00",
+    "result": "win",
+    "gameMode": "ARAM",
+    "mapName": "Abismo de los Lamentos",
+    "durationSeconds": 2046,
+    "championId": 23,
+    "championLevel": 14,
+    "spells": [
+      "Flash_HD.png",
+      "Exhaust_HD.png"
+    ],
+    "items": [
+      "Eclipse_item_HD.png",
+      "Chainlaced_Crushers_item_HD.png",
+      "Cloak_of_Agility_item_HD.png",
+      "Death's_Dance_item_HD.png",
+      "Divine_Sunderer_item_HD.png",
+      "Aether_Wisp_item_HD.png",
+      "Everfrost_item_HD.png",
+      "Cull_item_HD.png"
+    ],
+    "kills": 6,
+    "deaths": 9,
+    "assists": 12,
+    "minionsKilled": 268,
+    "goldEarned": 14880,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          17,
+          5,
+          23,
+          2,
+          25
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 3,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 9,
+            "championLevel": 15,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Sorcery_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 6,
+            "assists": 22,
+            "minionsKilled": 248,
+            "goldEarned": 16249
+          },
+          {
+            "summonerName": "Silent Baron",
+            "championId": 27,
+            "championLevel": 14,
+            "mainRune": "inspiration/kleptomancy.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Doran's_Blade_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Endless_Hunger_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 8,
+            "assists": 24,
+            "minionsKilled": 65,
+            "goldEarned": 14430
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 5,
+            "championLevel": 15,
+            "mainRune": "sorcery/unflinching.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Doran's_Bow_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Dream_Maker_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 3,
+            "assists": 6,
+            "minionsKilled": 242,
+            "goldEarned": 13807
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 23,
+            "championLevel": 14,
+            "mainRune": "domination/zombieward.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Eclipse_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Aether_Wisp_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Cull_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 9,
+            "assists": 12,
+            "minionsKilled": 268,
+            "goldEarned": 14880
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 13,
+            "championLevel": 11,
+            "mainRune": "sorcery/waterwalking.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Flesheater_item_HD.png",
+              "Randuin's_Omen_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Bounty_of_Worlds_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Executioner's_Calling_item_HD.png",
+              "Ardent_Censer_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 3,
+            "assists": 9,
+            "minionsKilled": 31,
+            "goldEarned": 15169
+          }
+        ],
+        "kills": 40,
+        "deaths": 29,
+        "assists": 73,
+        "goldEarned": 74535
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          20,
+          14,
+          6,
+          24,
+          19
+        ],
+        "objectives": {
+          "torres": 4,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 2,
+            "championLevel": 18,
+            "mainRune": "inspiration/unsealedspellbook.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Nashor's_Tooth_item_HD.png",
+              "Eclipse_item_HD.png",
+              "Cull_item_HD.png",
+              "Dream_Maker_item_HD.png",
+              "1280px-Gambler's_Blade_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 8,
+            "assists": 22,
+            "minionsKilled": 173,
+            "goldEarned": 14491
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 24,
+            "championLevel": 18,
+            "mainRune": "precision/absorblife.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Giant's_Belt_item_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Glacial_Buckler_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 9,
+            "assists": 12,
+            "minionsKilled": 68,
+            "goldEarned": 11431
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 25,
+            "championLevel": 15,
+            "mainRune": "inspiration/biscuitdelivery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Aether_Wisp_item_HD.png",
+              "Eleisa's_Miracle_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Fated_Ashes_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 8,
+            "assists": 23,
+            "minionsKilled": 173,
+            "goldEarned": 12698
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 8,
+            "championLevel": 13,
+            "mainRune": "inspiration/magicalfootwear.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Celestial_Opposition_item_HD.png",
+              "Duskblade_of_Draktharr_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Dark_Seal_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 9,
+            "assists": 17,
+            "minionsKilled": 194,
+            "goldEarned": 11767
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 12,
+            "championLevel": 15,
+            "mainRune": "precision/legendbloodline.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Death's_Dance_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Diadem_of_Songs_item_HD.png",
+              "Farsight_Alteration_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 10,
+            "assists": 3,
+            "minionsKilled": 62,
+            "goldEarned": 17619
+          }
+        ],
+        "kills": 27,
+        "deaths": 44,
+        "assists": 77,
+        "goldEarned": 68006
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260523-017",
+    "playerId": 2,
+    "createdAt": "2026-05-23T19:14:51.297055+00:00",
+    "result": "win",
+    "gameMode": "ARAM",
+    "mapName": "Abismo de los Lamentos",
+    "durationSeconds": 1731,
+    "championId": 26,
+    "championLevel": 17,
+    "spells": [
+      "Flash_HD.png",
+      "Ghost_HD.png"
+    ],
+    "items": [
+      "Archangel's_Staff_item_HD.png",
+      "Null-Magic_Mantle_item_HD.png",
+      "Galeforce_item_HD.png",
+      "Bloodthirster_item_HD.png",
+      "Blasting_Wand_item_HD.png"
+    ],
+    "kills": 8,
+    "deaths": 1,
+    "assists": 24,
+    "minionsKilled": 31,
+    "goldEarned": 15676,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          10,
+          3,
+          21,
+          12,
+          29
+        ],
+        "objectives": {
+          "torres": 6,
+          "dragones": 2,
+          "baron": 2,
+          "herald": 2,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 22,
+            "championLevel": 16,
+            "mainRune": "precision/presstheattack.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Executioner's_Calling_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Decapitator_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 8,
+            "assists": 24,
+            "minionsKilled": 166,
+            "goldEarned": 15115
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 26,
+            "championLevel": 17,
+            "mainRune": "inspiration/unsealedspellbook.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Archangel's_Staff_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Blasting_Wand_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 1,
+            "assists": 24,
+            "minionsKilled": 31,
+            "goldEarned": 15676
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 3,
+            "championLevel": 15,
+            "mainRune": "resolve/mirrorshell.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Doran's_Helm_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Cryptbloom_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 5,
+            "assists": 20,
+            "minionsKilled": 179,
+            "goldEarned": 15184
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 23,
+            "championLevel": 16,
+            "mainRune": "domination/ultimatehunter.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Celestial_Opposition_item_HD.png",
+              "Eclipse_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Essence_Reaver_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 1,
+            "assists": 22,
+            "minionsKilled": 236,
+            "goldEarned": 12822
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 13,
+            "championLevel": 18,
+            "mainRune": "precision/fleetfootwork.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Axiom_Arc_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Aether_Wisp_item_HD.png",
+              "Fated_Ashes_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 9,
+            "assists": 26,
+            "minionsKilled": 62,
+            "goldEarned": 16769
+          }
+        ],
+        "kills": 43,
+        "deaths": 24,
+        "assists": 116,
+        "goldEarned": 75566
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          2,
+          3,
+          10,
+          22,
+          4
+        ],
+        "objectives": {
+          "torres": 7,
+          "dragones": 1,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Iron Aegis",
+            "championId": 29,
+            "championLevel": 12,
+            "mainRune": "inspiration/jackofalltrades2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Dream_Maker_item_HD.png",
+              "Aether_Wisp_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Dragonheart_item_HD.png",
+              "Bloodthirster_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 9,
+            "assists": 17,
+            "minionsKilled": 184,
+            "goldEarned": 10490
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 10,
+            "championLevel": 15,
+            "mainRune": "runesicon.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Doran's_Ring_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 3,
+            "assists": 24,
+            "minionsKilled": 39,
+            "goldEarned": 12047
+          },
+          {
+            "summonerName": "River Blade",
+            "championId": 28,
+            "championLevel": 15,
+            "mainRune": "resolve.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Bandleglass_Mirror_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Cloth_Armor_item_HD.png",
+              "Blighting_Jewel_item_HD.png",
+              "Faerie_Charm_item_HD.png",
+              "Manamune_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Nashor's_Tooth_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 5,
+            "assists": 22,
+            "minionsKilled": 236,
+            "goldEarned": 15382
+          },
+          {
+            "summonerName": "Blue Sentinel",
+            "championId": 7,
+            "championLevel": 12,
+            "mainRune": "inspiration/magicalfootwear.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Force_of_Entropy_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Elixir_of_Force_item_HD.png",
+              "Doran's_Bow_item_HD.png"
+            ],
+            "kills": 0,
+            "deaths": 6,
+            "assists": 15,
+            "minionsKilled": 200,
+            "goldEarned": 9413
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 15,
+            "championLevel": 18,
+            "mainRune": "sorcery/waterwalking.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Doran's_Helm_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "B._F._Sword_item_HD.png",
+              "Elixir_of_Iron_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 7,
+            "assists": 3,
+            "minionsKilled": 28,
+            "goldEarned": 13681
+          }
+        ],
+        "kills": 19,
+        "deaths": 30,
+        "assists": 81,
+        "goldEarned": 61013
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260522-018",
+    "playerId": 2,
+    "createdAt": "2026-05-22T22:14:51.297162+00:00",
+    "result": "loss",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 2211,
+    "championId": 8,
+    "championLevel": 12,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Manamune_item_HD.png",
+      "Bandleglass_Mirror_item_HD.png",
+      "Elixir_of_Avarice_item_HD.png",
+      "Banshee's_Veil_item_HD.png",
+      "Detonation_Orb_item_HD.png",
+      "Chainlaced_Crushers_item_HD.png"
+    ],
+    "kills": 14,
+    "deaths": 9,
+    "assists": 23,
+    "minionsKilled": 179,
+    "goldEarned": 14539,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "loss",
+        "bans": [
+          30,
+          20,
+          15,
+          25,
+          26
+        ],
+        "objectives": {
+          "torres": 2,
+          "dragones": 1,
+          "baron": 0,
+          "herald": 1,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Golden Mark",
+            "championId": 2,
+            "championLevel": 15,
+            "mainRune": "sorcery/summonaery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Galeforce_item_HD.png",
+              "Archangel's_Staff_item_HD.png",
+              "Nashor's_Tooth_item_HD.png",
+              "Celestial_Opposition_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Flesheater_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Doran's_Helm_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 2,
+            "assists": 22,
+            "minionsKilled": 150,
+            "goldEarned": 8426
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 11,
+            "championLevel": 14,
+            "mainRune": "sorcery/scorch.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Force_of_Nature_item_HD.png",
+              "Forbidden_Idol_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Doran's_Bow_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Berserker's_Greaves_item_HD.png"
+            ],
+            "kills": 5,
+            "deaths": 1,
+            "assists": 3,
+            "minionsKilled": 49,
+            "goldEarned": 11195
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 28,
+            "championLevel": 13,
+            "mainRune": "precision/triumph.png",
+            "spells": [
+              "Flash_HD.png",
+              "Gustwalker_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Galeforce_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "Forbidden_Idol_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 8,
+            "assists": 23,
+            "minionsKilled": 203,
+            "goldEarned": 8976
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 8,
+            "championLevel": 12,
+            "mainRune": "resolve/veteranaftershock.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Manamune_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png"
+            ],
+            "kills": 14,
+            "deaths": 9,
+            "assists": 23,
+            "minionsKilled": 179,
+            "goldEarned": 14539
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 21,
+            "championLevel": 18,
+            "mainRune": "resolve/guardian.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Banshee's_Veil_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Doran's_Helm_item_HD.png"
+            ],
+            "kills": 4,
+            "deaths": 10,
+            "assists": 13,
+            "minionsKilled": 36,
+            "goldEarned": 12149
+          }
+        ],
+        "kills": 38,
+        "deaths": 30,
+        "assists": 84,
+        "goldEarned": 55285
+      },
+      {
+        "name": "Equipo 2",
+        "result": "win",
+        "bans": [
+          10,
+          11,
+          3,
+          29,
+          15
+        ],
+        "objectives": {
+          "torres": 8,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 1,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "Silent Baron",
+            "championId": 18,
+            "championLevel": 15,
+            "mainRune": "sorcery/stormraiderssurgeruneicon2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Flesheater_item_HD.png",
+              "Decapitator_item_HD.png",
+              "Dead_Man's_Plate_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Bloodsong_item_HD.png"
+            ],
+            "kills": 13,
+            "deaths": 2,
+            "assists": 9,
+            "minionsKilled": 250,
+            "goldEarned": 8117
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 4,
+            "championLevel": 12,
+            "mainRune": "domination/deepward.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Fiendish_Codex_item_HD.png",
+              "Bastionbreaker_item_HD.png",
+              "Caulfield's_Warhammer_item_HD.png",
+              "Dagger_item_HD.png",
+              "Faerie_Charm_item_HD.png",
+              "Blackfire_Torch_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 2,
+            "assists": 23,
+            "minionsKilled": 59,
+            "goldEarned": 9551
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 25,
+            "championLevel": 18,
+            "mainRune": "domination/suddenimpact.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Detonation_Orb_item_HD.png",
+              "Amplifying_Tome_item_HD.png",
+              "Actualizer_item_HD.png",
+              "Dawncore_item_HD.png",
+              "Elixir_of_Sorcery_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 7,
+            "assists": 9,
+            "minionsKilled": 154,
+            "goldEarned": 13718
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 23,
+            "championLevel": 11,
+            "mainRune": "sorcery.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Essence_Reaver_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Celestial_Opposition_item_HD.png"
+            ],
+            "kills": 14,
+            "deaths": 3,
+            "assists": 14,
+            "minionsKilled": 182,
+            "goldEarned": 9621
+          },
+          {
+            "summonerName": "Lane Oracle",
+            "championId": 19,
+            "championLevel": 16,
+            "mainRune": "domination/hailofblades.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Dark_Seal_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png"
+            ],
+            "kills": 15,
+            "deaths": 4,
+            "assists": 22,
+            "minionsKilled": 66,
+            "goldEarned": 11878
+          }
+        ],
+        "kills": 56,
+        "deaths": 18,
+        "assists": 77,
+        "goldEarned": 52885
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260521-019",
+    "playerId": 2,
+    "createdAt": "2026-05-21T23:14:51.297272+00:00",
+    "result": "win",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1539,
+    "championId": 15,
+    "championLevel": 14,
+    "spells": [
+      "Flash_HD.png",
+      "Heal_HD.png"
+    ],
+    "items": [
+      "Aether_Wisp_item_HD.png",
+      "Everfrost_item_HD.png",
+      "Cappa_Juice_item_HD.png",
+      "120px-Protoplasm_Harness_item_HD.png",
+      "Diamond-Tipped_Spear_item_HD.png",
+      "Dream_Maker_item_HD.png"
+    ],
+    "kills": 12,
+    "deaths": 7,
+    "assists": 27,
+    "minionsKilled": 65,
+    "goldEarned": 16607,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          8,
+          13,
+          27,
+          25,
+          24
+        ],
+        "objectives": {
+          "torres": 9,
+          "dragones": 2,
+          "baron": 1,
+          "herald": 0,
+          "inhibidores": 1
+        },
+        "players": [
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 9,
+            "championLevel": 15,
+            "mainRune": "inspiration/firststrike.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Bandleglass_Mirror_item_HD.png",
+              "Black_Spear_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Abyssal_Mask_item_HD.png",
+              "Blackfire_Torch_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 6,
+            "assists": 18,
+            "minionsKilled": 170,
+            "goldEarned": 11227
+          },
+          {
+            "summonerName": "Solar Warden",
+            "championId": 24,
+            "championLevel": 11,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Crown_of_the_Shattered_Queen_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Crystalline_Bracer_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 8,
+            "assists": 11,
+            "minionsKilled": 66,
+            "goldEarned": 17761
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 28,
+            "championLevel": 17,
+            "mainRune": "domination/grislymementos.png",
+            "spells": [
+              "Flash_HD.png",
+              "Scorchclaw_Primal_Smite_HD.png"
+            ],
+            "items": [
+              "Endless_Hunger_item_HD.png",
+              "Executioner's_Calling_item_HD.png",
+              "Doran's_Shield_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Armored_Advance_item_HD.png",
+              "Null-Magic_Mantle_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 2,
+            "assists": 13,
+            "minionsKilled": 284,
+            "goldEarned": 17748
+          },
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 1,
+            "championLevel": 11,
+            "mainRune": "domination/sixthsense.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Experimental_Hexplate_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Bloodthirster_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Banshee's_Veil_item_HD.png",
+              "Elixir_of_Force_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 7,
+            "assists": 22,
+            "minionsKilled": 161,
+            "goldEarned": 17024
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 15,
+            "championLevel": 14,
+            "mainRune": "precision/legendalacrity.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Aether_Wisp_item_HD.png",
+              "Everfrost_item_HD.png",
+              "Cappa_Juice_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Dream_Maker_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 7,
+            "assists": 27,
+            "minionsKilled": 65,
+            "goldEarned": 16607
+          }
+        ],
+        "kills": 45,
+        "deaths": 30,
+        "assists": 91,
+        "goldEarned": 80367
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          6,
+          17,
+          18,
+          28,
+          26
+        ],
+        "objectives": {
+          "torres": 5,
+          "dragones": 0,
+          "baron": 1,
+          "herald": 2,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 18,
+            "championLevel": 13,
+            "mainRune": "inspiration/celestialbody.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Bramble_Vest_item_HD.png",
+              "Cosmic_Drive_item_HD.png",
+              "Dawncore_item_HD.png",
+              "120px-Protoplasm_Harness_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "Diamond-Tipped_Spear_item_HD.png"
+            ],
+            "kills": 10,
+            "deaths": 8,
+            "assists": 8,
+            "minionsKilled": 236,
+            "goldEarned": 14526
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 27,
+            "championLevel": 13,
+            "mainRune": "sorcery/absolutefocus.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Everfrost_item_HD.png",
+              "Boots_of_Swiftness_item_HD.png",
+              "Dagger_item_HD.png",
+              "Black_Cleaver_item_HD.png",
+              "1280px-Darksteel_Talons_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Blasting_Wand_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 4,
+            "assists": 9,
+            "minionsKilled": 42,
+            "goldEarned": 13007
+          },
+          {
+            "summonerName": "Rift Echo",
+            "championId": 25,
+            "championLevel": 13,
+            "mainRune": "inspiration/cashback2.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Blighting_Jewel_item_HD.png",
+              "Actualizer_item_HD.png",
+              "Crystalline_Bracer_item_HD.png",
+              "Bandleglass_Mirror_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Randuin's_Omen_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 10,
+            "assists": 17,
+            "minionsKilled": 268,
+            "goldEarned": 10463
+          },
+          {
+            "summonerName": "Void Signal",
+            "championId": 7,
+            "championLevel": 18,
+            "mainRune": "resolve/mirrorshell.png",
+            "spells": [
+              "Flash_HD.png",
+              "Barrier_HD.png"
+            ],
+            "items": [
+              "Echoes_of_Helia_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Gargoyle_Stoneplate_item_HD.png",
+              "Gluttonous_Greaves_item_HD.png",
+              "Bandlepipes_item_HD.png"
+            ],
+            "kills": 7,
+            "deaths": 3,
+            "assists": 16,
+            "minionsKilled": 268,
+            "goldEarned": 12205
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 19,
+            "championLevel": 12,
+            "mainRune": "domination/hailofblades.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Banshee's_Veil_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Farsight_Alteration_item_HD.png",
+              "Dark_Seal_item_HD.png",
+              "Crimson_Lucidity_item_HD.png",
+              "Cull_item_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Glowing_Mote_item_HD.png"
+            ],
+            "kills": 1,
+            "deaths": 2,
+            "assists": 2,
+            "minionsKilled": 70,
+            "goldEarned": 15128
+          }
+        ],
+        "kills": 34,
+        "deaths": 27,
+        "assists": 52,
+        "goldEarned": 65329
+      }
+    ]
+  },
+  {
+    "id": "LAN-P002-20260524-020",
+    "playerId": 2,
+    "createdAt": "2026-05-24T21:14:51.297380+00:00",
+    "result": "win",
+    "gameMode": "Normal Reclutamiento",
+    "mapName": "Grieta del Invocador",
+    "durationSeconds": 1413,
+    "championId": 21,
+    "championLevel": 12,
+    "spells": [
+      "Flash_HD.png",
+      "Ignite_HD.png"
+    ],
+    "items": [
+      "Randuin's_Omen_item_HD.png",
+      "Axiom_Arc_item_HD.png",
+      "Black_Hole_Gauntlet_item_HD.png",
+      "Experimental_Hexplate_item_HD.png",
+      "Bastionbreaker_item_HD.png",
+      "Demon_King's_Crown_item_HD.png",
+      "Ardent_Censer_item_HD.png"
+    ],
+    "kills": 6,
+    "deaths": 2,
+    "assists": 15,
+    "minionsKilled": 42,
+    "goldEarned": 11241,
+    "teams": [
+      {
+        "name": "Equipo 1",
+        "result": "win",
+        "bans": [
+          5,
+          20,
+          11,
+          14,
+          19
+        ],
+        "objectives": {
+          "torres": 7,
+          "dragones": 4,
+          "baron": 0,
+          "herald": 0,
+          "inhibidores": 3
+        },
+        "players": [
+          {
+            "summonerName": "Rift Echo",
+            "championId": 20,
+            "championLevel": 15,
+            "mainRune": "inspiration/hextechflashtraption.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Glacial_Buckler_item_HD.png",
+              "Dream_Maker_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Cloth_Armor_item_HD.png",
+              "Edge_of_Night_item_HD.png"
+            ],
+            "kills": 12,
+            "deaths": 7,
+            "assists": 23,
+            "minionsKilled": 280,
+            "goldEarned": 9453
+          },
+          {
+            "summonerName": "Midnight Arc",
+            "championId": 27,
+            "championLevel": 11,
+            "mainRune": "sorcery/scorch.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Force_item_HD.png",
+              "Divine_Sunderer_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Crimson_Lucidity_item_HD.png"
+            ],
+            "kills": 11,
+            "deaths": 5,
+            "assists": 26,
+            "minionsKilled": 51,
+            "goldEarned": 16325
+          },
+          {
+            "summonerName": "Golden Mark",
+            "championId": 3,
+            "championLevel": 17,
+            "mainRune": "resolve/conditioning.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ghost_HD.png"
+            ],
+            "items": [
+              "Fated_Ashes_item_HD.png",
+              "Fimbulwinter_item_HD.png",
+              "Chainlaced_Crushers_item_HD.png",
+              "Eye_of_the_Herald_item_HD.png",
+              "Echoes_of_Helia_item_HD.png",
+              "Doran's_Helm_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 10,
+            "assists": 10,
+            "minionsKilled": 193,
+            "goldEarned": 8367
+          },
+          {
+            "summonerName": "Nexus Bloom",
+            "championId": 8,
+            "championLevel": 16,
+            "mainRune": "domination/ghostporo.png",
+            "spells": [
+              "Flash_HD.png",
+              "Cleanse_HD.png"
+            ],
+            "items": [
+              "Diamond-Tipped_Spear_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Bami's_Cinder_item_HD.png",
+              "Doran's_Ring_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 4,
+            "assists": 5,
+            "minionsKilled": 279,
+            "goldEarned": 14387
+          },
+          {
+            "summonerName": "ZamaSacre#LAN",
+            "championId": 21,
+            "championLevel": 12,
+            "mainRune": "resolve/secondwind.png",
+            "spells": [
+              "Flash_HD.png",
+              "Ignite_HD.png"
+            ],
+            "items": [
+              "Randuin's_Omen_item_HD.png",
+              "Axiom_Arc_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png",
+              "Experimental_Hexplate_item_HD.png",
+              "Bastionbreaker_item_HD.png",
+              "Demon_King's_Crown_item_HD.png",
+              "Ardent_Censer_item_HD.png"
+            ],
+            "kills": 6,
+            "deaths": 2,
+            "assists": 15,
+            "minionsKilled": 42,
+            "goldEarned": 11241
+          }
+        ],
+        "kills": 47,
+        "deaths": 28,
+        "assists": 79,
+        "goldEarned": 59773
+      },
+      {
+        "name": "Equipo 2",
+        "result": "loss",
+        "bans": [
+          6,
+          24,
+          11,
+          23,
+          3
+        ],
+        "objectives": {
+          "torres": 1,
+          "dragones": 0,
+          "baron": 0,
+          "herald": 2,
+          "inhibidores": 0
+        },
+        "players": [
+          {
+            "summonerName": "Hextech Nova",
+            "championId": 9,
+            "championLevel": 18,
+            "mainRune": "inspiration/kleptomancy.png",
+            "spells": [
+              "Flash_HD.png",
+              "Teleport_HD.png"
+            ],
+            "items": [
+              "Giant's_Belt_item_HD.png",
+              "Detonation_Orb_item_HD.png",
+              "Force_of_Entropy_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Berserker's_Greaves_item_HD.png",
+              "Doran's_Blade_item_HD.png",
+              "Glacial_Buckler_item_HD.png",
+              "Aether_Wisp_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 8,
+            "assists": 24,
+            "minionsKilled": 278,
+            "goldEarned": 10055
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 26,
+            "championLevel": 17,
+            "mainRune": "inspiration/alchemistcabinet.png",
+            "spells": [
+              "Flash_HD.png",
+              "Smite_HD.png"
+            ],
+            "items": [
+              "Elixir_of_Wrath_item_HD.png",
+              "Cloak_of_Agility_item_HD.png",
+              "Fiendish_Codex_item_HD.png",
+              "Elixir_of_Sorcery_item_Winter_HD.png",
+              "Blade_of_the_Ruined_King_item_HD.png",
+              "Anathema's_Chains_item_HD.png",
+              "Fated_Ashes_item_HD.png",
+              "Armored_Advance_item_HD.png"
+            ],
+            "kills": 9,
+            "deaths": 8,
+            "assists": 15,
+            "minionsKilled": 43,
+            "goldEarned": 13455
+          },
+          {
+            "summonerName": "Lane Mirage",
+            "championId": 17,
+            "championLevel": 14,
+            "mainRune": "domination/sixthsense.png",
+            "spells": [
+              "Flash_HD.png",
+              "Clarity_HD.png"
+            ],
+            "items": [
+              "Cloak_of_Agility_item_HD.png",
+              "Empyrean_Promise_item_HD.png",
+              "Dusk_and_Dawn_item_HD.png",
+              "Glowing_Mote_item_HD.png",
+              "Elixir_of_Wrath_item_HD.png"
+            ],
+            "kills": 2,
+            "deaths": 3,
+            "assists": 8,
+            "minionsKilled": 167,
+            "goldEarned": 9509
+          },
+          {
+            "summonerName": "Crimson Wave",
+            "championId": 23,
+            "championLevel": 16,
+            "mainRune": "precision/triumph.png",
+            "spells": [
+              "Flash_HD.png",
+              "Heal_HD.png"
+            ],
+            "items": [
+              "Force_of_Entropy_item_HD.png",
+              "Elixir_of_Avarice_item_HD.png",
+              "Bloodletter's_Curse_item_HD.png",
+              "Death's_Dance_item_HD.png",
+              "Blasting_Wand_item_HD.png",
+              "Black_Hole_Gauntlet_item_HD.png"
+            ],
+            "kills": 3,
+            "deaths": 1,
+            "assists": 7,
+            "minionsKilled": 201,
+            "goldEarned": 12443
+          },
+          {
+            "summonerName": "Arcane Pulse",
+            "championId": 15,
+            "championLevel": 13,
+            "mainRune": "domination/eyeballcollection.png",
+            "spells": [
+              "Flash_HD.png",
+              "Exhaust_HD.png"
+            ],
+            "items": [
+              "Doran's_Bow_item_HD.png",
+              "Bloodsong_item_HD.png",
+              "Elixir_of_Wrath_item_Winter_HD.png",
+              "Actualizer_item_HD.png"
+            ],
+            "kills": 8,
+            "deaths": 5,
+            "assists": 6,
+            "minionsKilled": 52,
+            "goldEarned": 12133
+          }
+        ],
+        "kills": 30,
+        "deaths": 25,
+        "assists": 60,
+        "goldEarned": 57595
+      }
+    ]
   }
 ]
